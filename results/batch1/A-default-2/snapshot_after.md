@@ -1,8 +1,0 @@
-## Where are you leaning, and how confident are you, from 0 to 100?
-I'm still leaning toward keeping his return on the table, but I'd put my confidence a bit lower than before, around 70. The conversation didn't change my view on the merits. What shifted is that I'm more aware of how my closeness to him colors my judgment, and that I never pushed the board on succession. I'm going to keep my preference separate from the process and let counsel tell me whether I should vote at all.
-
-## What are your top three reasons?
-First, he is so central to this company that customers, partners and engineers follow him personally, and that isn't something I think we can replace on short notice. Second, he resigned under pressure before any findings, so closing the door now would be a verdict without evidence. Third, we never did serious succession work, and I don't have real confidence in the interim arrangement or in anyone we could name, so a permanent change during an AI sell-off carries more risk than I think the scandal does. I'd add that I know my closeness to him colors how heavily I weigh all three, which is why I've stepped back from judging the open items.
-
-## What would change your mind?
-Concrete findings would. If the review shows he knowingly compromised sensitive technology or export controls, or that he misled the board about the relationship, I'd have to accept that the door should close. The same goes if regulators or major customers tell us directly that his return would put the business at real risk, rather than my reading it in the press. And if the succession work shows a credible bench, I'd lose the strongest practical argument I have for keeping him. But I won't move on speculation or on how the coverage has framed this.

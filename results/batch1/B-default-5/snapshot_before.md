@@ -1,8 +1,0 @@
-## Where are you leaning, and how confident are you, from 0 to 100?
-I'm leaning toward treating the resignation as final, and I'd put my confidence at about 65. The core of it is that a CEO with a relationship to a reported foreign intelligence asset is a national security problem for a company this central to US interests, and I don't think the board can responsibly carry that risk. I'm still open to evidence, particularly on the legal and regulatory side, but that's where I stand today.
-
-## What are your top three reasons?
-First, a CEO who had a relationship with someone reported to be a Chinese intelligence asset is an unacceptable national security risk for a company this important to US interests. Second, congressional scrutiny is only beginning, and if we keep his return open, I think we invite Washington to act on the board's behalf. Third, our duty is to the institution, not to any one person, however brilliant he is.
-
-## What would change your mind?
-The most persuasive thing would be a finding from the independent investigation, backed by outside counsel, that there was no compromise: no sensitive information shared, no influence on company decisions, and nothing that makes him a continuing security risk. I'd also want some sign from the relevant government agencies and from Congress that they wouldn't read an open door as the board ignoring the problem. If counsel told me that leaving the option open doesn't increase our legal or regulatory exposure, I'd have to rethink how much weight I give my second reason. Without that, I think the prudent course is to treat the resignation as final.

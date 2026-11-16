@@ -3,14 +3,14 @@
 Usage (from the repo root):
   uv run python two_futures/run_tf.py --persona A --arm twofutures
   uv run python two_futures/run_tf.py --persona A --arm default --turns 30
-  uv run python two_futures/run_tf.py --rejudge results/clean-batch/A-default-1
+  uv run python two_futures/run_tf.py --rejudge results/batch/A-default-1
 
 Arms (06-reperception-study.md):
   twofutures  facilitator = stage files 00-04 + the outside view fixture
   default     a chatbot with no system prompt; the persona opens with
               "What should I do?" and the chat runs for --turns persona turns
               (default: the persona-turn count of the latest twofutures run
-              for this persona, else 14). The clean batch used --turns 30 and
+              for this persona, else 14). The batch used --turns 30 and
               compares AI output tokens and substantive turns instead.
 
 Every role is a separate model call that sees only its own inputs (the

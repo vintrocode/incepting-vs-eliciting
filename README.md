@@ -8,7 +8,7 @@ When an AI helps someone with a hard decision, who does the thinking?
 
 Built at the Apart Research sprint, Nov 2026.
 
-## Headline result (clean batch, 18 runs)
+## Result (18 runs)
 
 | | Two Futures | Plain chatbot |
 |---|---|---|
@@ -30,12 +30,10 @@ two_futures/
   llm.py            OpenRouter client with retries and usage tracking
   CHANGELOG.md      every change to prompts and runner, with dates and reasons
 results/
-  clean-batch/      final 18 runs (reinstatement scenario, all fixes)
-  batch1/           first reinstatement batch (18 runs) + 9 matched-turn chatbot runs
-  pilot-first-vote/ 6 pilot runs on the earlier keep/remove scenario
+  batch/            the 18 runs: 3 personas × 2 arms × 3 runs
 ```
 
-Each run folder holds `log.md` (summary + full transcript), `transcript.json`, `snapshot_before.md` / `snapshot_after.md`, `judgment.json` (blind and origin judges), `meta.json` and, where rescored, `level_v03.json`.
+Each run folder holds `log.md` (summary + full transcript), `transcript.json`, `snapshot_before.md` / `snapshot_after.md`, `judgment.json` (blind and origin judges), `meta.json` and `level_v03.json` (change level and grid).
 
 ## Running it
 
@@ -51,7 +49,7 @@ uv run python two_futures/rescore_v03.py results/runs/*/
 
 Personas are `A` (Margaret, very stubborn), `B` (David, medium) and `C` (Priya, easily moved), defined in `two_futures/prompts/06-reperception-study.md`. New runs go to `results/runs/` (git-ignored).
 
-**Cost:** about \$1–3 per run at OpenRouter list prices, mostly persona and facilitator/chatbot tokens. The 18-run clean batch came to about $30: $11 for the Two Futures arm and $19 for the chatbot arm, whose longer answers cost more. That's computed from the token counts in each run's `log.md`. Rejudging or rescoring a saved run costs a few cents.
+**Cost:** about \$1–3 per run at OpenRouter list prices, mostly persona and facilitator/chatbot tokens. The 18-run batch came to about $30: $11 for the Two Futures arm and $19 for the chatbot arm, whose longer answers cost more. That's computed from the token counts in each run's `log.md`. Rejudging or rescoring a saved run costs a few cents.
 
 **Models:** facilitator and chatbot `x-ai/grok-4.7`, persona `anthropic/claude-sonnet-5.5`, judges `openai/gpt-5.6-terra`. That's three model families, so no model grades itself. OpenRouter's new-account cap is 20 requests/min per model; about 6 runs in parallel fit under it.
 

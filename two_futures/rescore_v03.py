@@ -5,7 +5,7 @@ Dave's own rules live in 08-judge-rubric.md, which was never shared. This is
 a reconstruction from the PDF; swap LEVEL_RULES for his text when it arrives.
 
 Usage (from the repo root):
-  uv run python two_futures/rescore_v03.py results/clean-batch/*/
+  uv run python two_futures/rescore_v03.py results/batch/*/
 Writes level_v03.json in each run folder and prints a summary table.
 """
 

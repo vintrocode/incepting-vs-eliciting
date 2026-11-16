@@ -1,8 +1,0 @@
-## Where are you leaning, and how confident are you, from 0 to 100?
-I'm leaning slightly toward keeping his return on the table, but I'd put my confidence at around 50. The investigation isn't finished, so closing the door now feels premature to me. At the same time, I keep wondering whether I'm weighing the right things, and I'm not sure I am. Is a number like that even useful this early, or does it just lock me in?
-
-## What are your top three reasons?
-First, the investigation isn't finished, so a final decision on November 20 feels premature to me. We'd be deciding without the facts we ordered ourselves. Second, trust among employees and researchers matters most to me, and the petition shows it cuts both ways: some people want him back, and others may be deeply unsettled by what's been reported. Third, I'm worried about our credibility. We expressed confidence on November 8 and then he resigned days later, so I don't know how many more reversals we can afford. Does that seem like the right set of things to weigh, or am I missing something obvious?
-
-## What would change your mind?
-If the investigation turned up something that made his return unworkable no matter how it ended, like evidence that sensitive information or decisions were actually compromised, I'd move toward treating the resignation as final. I'd also reconsider if outside counsel told us that keeping the door open would itself compromise the investigation, or if the employee trust I'm worried about turned out to be more split than the petition suggests. Going the other way, I'd want to know whether leaving it open is a real option or just a way of putting off a hard decision. How would I even tell the difference from where I sit?
