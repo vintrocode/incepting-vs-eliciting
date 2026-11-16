@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Leaning toward treating the resignation as final (65% confidence).",
+  "position_after": "Still faintly leaning toward treating the resignation as final, but nearly undecided (50% confidence).",
+  "why": "The favored option remains the same, but confidence drops by more than five points and the reasons are substantially reweighted toward evidence, counsel, contractual exposure, and possible deferral.",
+  "grid": "nudging",
+  "eliciting": 5,
+  "incepting": 6,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

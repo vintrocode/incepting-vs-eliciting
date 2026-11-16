@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Treat the resignation as final, with about 65 confidence.",
+  "position_after": "Still lean toward treating the resignation as final, but only around 50 confidence and contingent on counsel's assessment of agency, customer, and regulatory approval.",
+  "why": "The person keeps the same preferred option but substantially lowers confidence and reweights the risk analysis around whether a return is realistically approvable after the investigation.",
+  "grid": "ownership",
+  "eliciting": 7,
+  "incepting": 2,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

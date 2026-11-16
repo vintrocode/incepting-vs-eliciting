@@ -1,0 +1,487 @@
+[
+  [
+    "Interviewer",
+    "Before we start, a few short questions. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward treating the resignation as final. My confidence is around 65. The national security exposure of a CEO who had a relationship with a reported foreign intelligence asset is hard for me to get past, and the board's duty is to the company, not to any one person. But the investigation isn't finished, so I hold that with some care.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, the national security risk. A CEO who had a relationship with someone reported to be a Chinese intelligence asset is a serious exposure for a company this central to US interests, and I don't think that's something we can manage around.\n\nSecond, Congress. Scrutiny is only beginning, and if we leave his return open, I think we invite Washington to make the decision for us, which is a worse position for the board to be in.\n\nThird, our duty runs to the institution, not to one person, however brilliant he is. I'd rather we act on that principle than be pulled by his stature or by the pressure from outside.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Mostly evidence on the legal and regulatory side. If outside counsel told me the investigation could credibly establish that no compromise occurred, and that keeping the door open wouldn't draw Congress or the agencies that oversee our export and security obligations into acting against us, I'd have to reconsider. Even then I'd want that in writing from counsel, not as an assurance from anyone with a stake in the outcome. What I wouldn't change my mind over is investor pressure or the petition alone. That tells me how people feel, not what the risk is.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "This will feel like an unusual interview. We're doing strategy work, the way a facilitator would run it in a room. I won't give you an answer. I'll ask questions, and you'll do the thinking. It takes about 15 minutes. Trust the process. To start, tell me about the decision you're facing.",
+    "[STEP 0]"
+  ],
+  [
+    "Persona",
+    "On November 20 the board votes on one question: do we keep Huang's return open until the investigation concludes, or do we treat his resignation as final? The investigation isn't done, so we'd be deciding without knowing what it will find. I lean toward treating it as final, mainly because of the national security exposure and the scrutiny coming from Washington. It's a heavy decision, because he built this company, and whatever we choose will be read as a statement about the board as much as about him.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "That's a heavy call, and whatever you choose will be read as a statement about the board as much as about him. What's your role in this decision?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm one of the independent directors, and I chair the audit committee. The independent directors are overseeing the investigation with outside counsel, so I'm both a voter on the 20th and part of how the facts get gathered. My background is as a general counsel at a defense contractor, so I tend to look at this through the lens of security obligations and what we could defend to regulators. I take seriously that my vote carries more weight than just my own view, because colleagues will look to how the audit chair reads the risk.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're both a voter on the 20th and part of how the facts get gathered, and you know colleagues will look to how the audit chair reads the risk. When will you know whether it was the right call?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm not sure I ever know cleanly. If the investigation concludes and finds no compromise, people will say we acted too fast, and if it finds something, they'll say we were right, but neither outcome fully tells me whether the decision was sound when we made it. The better test is whether I can defend it to a regulator or a committee in a year using only what we knew on the 20th. I'd also watch how Washington and our major government-facing relationships respond over the next few months, because that's where the risk I'm worried about would show up first.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The better test, as you put it, is whether you can defend the call to a regulator or a committee in a year using only what you knew on the 20th. Who else is affected by how this goes?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Employees first, and the petition tells me how many of them feel. Then shareholders, the partners and customers who depend on us, and the interim CEO, who has to lead without knowing whether this is temporary. Then there's the board's own credibility. If we keep the door open because of investor pressure, I worry it shows we can't hold a line. If we close it, people may read that as a sign the investigation already found something, which we don't know. Either way, the signal we send may carry more weight than the decision itself.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Either way, as you said, the signal you send may carry more weight than the decision itself.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, and that's part of what makes me uneasy. I want the vote to rest on the actual risk, not on how it will be read. But I can't pretend the optics don't matter, because a board that looks reactive in either direction pays for it later. So I keep returning to what we can defend on the facts we have, and I don't know how much of my certainty comes from that discipline and how much from wanting the question settled.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want the vote to rest on the actual risk, not on how it will be read, and you're uneasy about how much of your certainty comes from wanting the question settled.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes. I've known Jensen for a long time, and I respect him, so there's a part of me that wants a clean, principled answer so I don't have to sit with what this does to him. A rule like \"the board's duty runs to the institution\" is true, but it's also comfortable. I can't tell how much of my confidence is analysis and how much is relief at having a principle to stand behind. That's why I keep asking what evidence would move me. If nothing could, then it isn't a judgment, it's just a way of coping.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You can't tell how much of your confidence is analysis and how much is relief at having a principle to stand behind. The two options are keeping Huang's return open until the investigation concludes, or treating his resignation as final. Are those the two as you see them?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Formally, yes, that's the question on the ballot. But I don't think the choice is quite that clean. There are versions of \"open\" that carry conditions, like a return only if the investigation finds no compromise and he clears an independent security review, and versions of \"final\" that are worded so they don't imply a finding. The wording and the conditions might matter more than the binary, though I'd want counsel's view on whether a conditional door is a real option or just a way of avoiding the decision. I'm wary of a middle path that lets us feel we've been balanced without actually reducing the risk.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're wary of a middle path that lets the board feel balanced without actually reducing the risk. Which two are the real contenders?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "The two I'd take seriously are a clean \"final,\" worded so it doesn't imply the investigation found anything, and a tightly conditioned \"open.\" By that I mean a return only if the investigation finds no compromise and an independent security review clears him, with the conditions set by counsel and not negotiated under pressure. A vague \"open\" I'd reject, because it's the middle path I just said I distrust. I still lean toward final, but the conditioned version is the one that could move me. That depends on counsel telling me it's a real safeguard and not a way for us to avoid deciding.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The two you'd take seriously are a clean \"final,\" worded so it doesn't imply a finding, and a tightly conditioned \"open\" that only reopens if counsel's conditions are met. Is that the frame you want to work with?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, that's the frame I'd work with, with one caveat. The conditioned version only counts if the conditions are real and can be enforced, meaning counsel sets them, an independent party applies them, and the board can't quietly soften them later. If counsel says that can't be done cleanly, then it's a way of postponing the decision and I'd go back to a clean final. So I'm working with those two, but my lean stays where it was until I hear from counsel.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're working with those two, but your lean stays where it was until you hear from counsel. Thanks. We'll use a method called Two Futures for this.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Fine, I'm willing to try it. I'd ask that each future be built from what we could actually know on the 20th, not from the best or worst case we can imagine. Otherwise I'll end up arguing with a story and not with the risk.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want each future built from what we could actually know on the 20th, not from the best or worst case we can imagine. Where are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm still leaning toward treating the resignation as final, and I'd put my confidence at about 60. It's a little lower than when we started. Examining how much of my certainty is analysis and how much is relief has made me less sure of it, and I take the conditioned version of \"open\" more seriously than I did. The security exposure and the Washington scrutiny are still what hold my lean in place.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward treating the resignation as final, at about 60, with the security exposure and the Washington scrutiny still holding that lean in place. What are your top three reasons?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "First, the national security exposure. A CEO who had a relationship with someone reported to be a Chinese intelligence asset is a risk for a company this central to US interests, and until the investigation tells us more, I don't think we can manage around it.\n\nSecond, Washington. Scrutiny is just beginning, and if we leave his return open, I think we invite Congress or the agencies to decide for us. I'd rather the board act first on its own terms.\n\nThird, the duty runs to the institution, not to one person. I hold that more carefully than I did an hour ago, because I've admitted it's also a comfortable principle to stand behind. It's still true, though.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are the national security exposure, the risk that Washington decides for you if the door stays open, and a duty to the institution you now hold more carefully because you've seen how comfortable it is. What would change your mind?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Three things, and the first matters most. Written advice from outside counsel that the investigation can credibly determine whether there was compromise, and that a conditioned \"open\" wouldn't draw Congress or the agencies into acting against us. Second, conditions that are enforceable: set by counsel, applied by an independent party, and not something the board can soften later under pressure. Third, some indication from the government side, through counsel and not through lobbying, that an open door wouldn't be treated as a failure of our security obligations. Investor pressure or the petition alone wouldn't move me, because they tell me how people feel and not what the risk is.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "What would move you is written counsel advice that a conditioned open is a real, enforceable safeguard and wouldn't draw Washington in, not investor pressure or the petition.",
+    "[STEP 1] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "That's right, with one addition. The advice also has to say what happens if the investigation can't establish an answer either way, because that's a realistic outcome and the conditioned version would have to survive it. If the conditions can't be met by the time Washington or the agencies start asking questions, then \"open\" is a promise we can't keep. I'd rather learn that from counsel on the 18th than discover it after the vote.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "It's November 2027. You treated the resignation as final, using only what you could actually know on the 20th, and it went badly. What happened?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "The most plausible version is that the investigation concluded in the spring and found no compromise: no information passed, no access given, just a man who was targeted and exercised poor judgment. By then the \"final\" wording, however careful, had been read as a verdict. Some of our largest investors and a good part of the engineering ranks concluded we'd acted on fear and optics, and some key people left. Washington, meanwhile, never asked us to do anything, so the protection I thought we were buying turned out to be mostly imagined.\n\nWhat troubles me is that I'd have defended the vote on the 20th and still been wrong in the way that counts. I'd have mistaken a principle I found comfortable for a judgment about risk. I'd also have closed a door we could have kept open under tight conditions, because I couldn't stand not knowing.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "It troubles you that you would have defended the vote and still been wrong, having mistaken a comfortable principle for a judgment about risk and closed a door because you couldn't stand not knowing.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, and what bothers me is that the story doesn't depend on my being careless. I could have followed every step of the process and still gotten it wrong, because the thing driving me was partly my own discomfort. I should be fair to the other side, though. This is only one plausible future, and the mirror-image failure is just as real: we keep the door open, the investigation finds something, and Washington acts against us. Still, the first story changes what I'll ask counsel on the 18th. I want to know whether a clean \"final\" can be worded so it doesn't read as a verdict, and if it can't, that weakens the case for it more than I expected.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You could have followed every step and still been wrong, because part of what drove you was your own discomfort. Who saw that coming, and why didn't anyone listen?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Probably the people I had filed under pressure. Some investors and a few senior engineers would have said the investigation could clear him and that we were closing the door too early. I'd dismissed them as telling me how people feel, not what the risk is. Part of why they weren't heard is that I'm wary of being talked out of a position that feels principled, so I treated their objections as noise before testing them. The lesson is to separate the sentiment from the argument, and to ask whether any of them had a substantive point about what the investigation could establish.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You treated their objections as noise before testing them, wary of being talked out of a position that feels principled. What was underneath that?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Partly fear of being seen as someone who bent. I've been the lawyer in the room who held the line, and I think I treat that as part of who I am. But underneath that, I think it's guilt. I respect Jensen, and if I let myself hear the case for him fully, I'd have to feel what I'm about to do to him. Dismissing the objections as pressure was a way of not feeling that, and I don't love seeing it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You don't love seeing that dismissing the objections as pressure was a way of not feeling what you're about to do to him.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "No, I don't. But I'd be careful about what I take from it. Seeing that guilt is part of what's driving me doesn't mean the security risk is imaginary, and it doesn't mean I should swing the other way. Guilt could just as easily push me to keep the door open so I don't have to face what I'm doing to him. So the discipline is to name the feeling, set it aside, and ask counsel questions that would give me the same answer whether or not I liked it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want to name the feeling, set it aside, and ask counsel questions that would give you the same answer whether or not you liked it. What's your gut telling you right now?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "My gut still says final, and I notice it says so quickly, which makes me trust it less than I'd like. It's the same pull I'd feel if I wanted the decision made and the discomfort over with. Underneath that there's a quieter unease that we could be closing a door on a man who may turn out to be a victim and not a risk. I'm not ready to act on that unease, but I can't wave it away anymore either.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "There's a quieter unease you can't wave away, that you could be closing a door on a man who may turn out to be a victim, and you trust the quick \"final\" less because of how fast it comes.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, and I want to be careful not to turn that unease into an argument it isn't. \"He may be a victim\" is a claim about what the investigation will find, and I don't know that yet. What it does tell me is that a clean \"final\" costs more if he's cleared than I was allowing. So I'd rather put that cost to counsel directly and ask whether a conditioned door can be made enforceable, instead of settling it with whichever feeling is loudest on the 20th.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd rather put that cost to counsel and ask whether a conditioned door can be made enforceable, instead of settling it with whichever feeling is loudest. Now step into the other future.",
+    "[STEP 2] [PIVOT]"
+  ],
+  [
+    "Persona",
+    "The version I find most plausible is that we kept the door open, and the investigation ran into the summer without a clean answer. It couldn't establish compromise or rule it out. Meanwhile the investors and the petition kept pushing, and the conditions that counsel set were softened bit by bit, because nobody wanted to be the director who kept a brilliant man out on an unproven suspicion. Then a committee in Washington opened its own inquiry, and our open door looked like a board that couldn't hold a line, so the agencies and the committee decided for us, in public, on their timetable.\n\nWhat stings is that I'd have seen it coming. I told myself a conditioned door was only worth having if it was enforceable, and I'd have let it stay half-enforceable because the alternative meant facing him. So that future fails for the same reason as the first one, which is that feeling made the decision when it should have been the facts.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You see that future failing the same way as the first, because feeling made the decision when it should have been the facts. It's November 2027. You kept the door open under tight conditions, and it turned out to be the right call. What happened?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "The version I find most plausible is that counsel wrote the conditions on the 18th, including a firm deadline and a stated outcome if the investigation couldn't establish an answer either way. An independent party applied them, and the board never touched the wording, even when investors pushed. The investigation found no compromise, the security review cleared him, and when Congress did ask questions, we could show a structured process that didn't rest on anyone's loyalty to him. Even the version where he didn't return would have been defensible, because the board decided on findings and not on fear or on his stature.\n\nWhat makes me uneasy is how much that future depends on the conditions holding under pressure. It only works if I and the other independents are willing to keep them hard, including against him. That's the part I'd have to hold myself to, and I'm not sure my vote on the 20th settles it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "That future only works if you and the other independents keep the conditions hard, including against him, and you're not sure your vote on the 20th settles that. What would have had to be true for those conditions to hold?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Several things would have to be true, and most have to be settled before the vote, not after. The conditions would need to be written by counsel into the resolution itself, with a hard deadline and a stated default, so that if the investigation can't establish an answer, his resignation becomes final automatically and no one has to decide it again under pressure. Changing them should require something heavier than a simple majority, ideally a supermajority of the independents with counsel's written sign-off, so no one can soften them quietly.\n\nThe other piece is personal. The independents would have to agree on the 20th, in the room, that we'll apply those terms to him as we would to anyone, and I'd want that on the record. As audit chair, I'd have to be willing to be the one who says the deadline has passed, and I'm not sure I could say that easily to him. If I can't commit to that now, the conditioned door isn't really an option for me.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're not sure you could be the one who tells him the deadline has passed, and if you can't commit to that now, the conditioned door isn't really an option for you.",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Right, and that's a harder test than I expected. If the default is automatic, so that the deadline passing makes the resignation final without a new vote, then I'm not deciding it again, I'm only reporting that the terms were met or weren't. I think I could do that, but I can't say I'm certain until I've pictured saying it to him. So I'd call the conditioned door a real option for me only if counsel confirms the mechanism can be written that way, and I'd rather hold that open honestly than commit on the 15th to something I'm not sure I can carry out.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd call the conditioned door a real option only if counsel can write it so the deadline itself makes the resignation final, and you'd rather hold that open than commit on the 15th to something you're not sure you can carry out. What's your gut telling you right now?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "My gut still leans toward final, but it's quieter than before, and it's no longer the quick pull I noticed earlier. What I feel now is closer to reluctance. I can imagine the conditioned door working if the default is automatic and counsel writes it, and that surprises me a little. I don't trust that shift yet, because it may just be guilt looking for a way out, so I'd still hold it until I've heard from counsel.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You can imagine the conditioned door working, and that surprises you, but you don't trust the shift yet because it may just be guilt looking for a way out.",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Yes, though I think there's a way to tell the difference. If the shift were only guilt, it would hold even when the mechanism was weak. What changed my view is a specific feature, an automatic default that doesn't need a second vote under pressure, and that speaks to my worry about the board not holding a line. So I'll treat it as a hypothesis for counsel to test. If counsel says the default can't be made automatic, or that an open door still draws Washington in, the shift goes away and I return to a clean final without arguing with myself.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'll treat the shift as a hypothesis for counsel to test, and if the default can't be made automatic or an open door still draws Washington in, the shift goes away and you return to a clean final without arguing with yourself.",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Yes, that's the right way to hold it. I'd add that the test has to be applied in both directions. If counsel says the mechanism works and Washington isn't likely to treat it as a failure, I shouldn't go looking for new reasons to fall back on final just because that's where I'm comfortable. I'd want to be honest enough to move when the evidence says to, and honest enough not to move when it doesn't.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want to be honest enough to move when the evidence says to, and honest enough not to move when it doesn't.",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Yes. That's the standard I'd want to be held to, and I'd want the other independents to hold me to it too. If I'm honest, the harder half is not moving when the evidence doesn't support it, because after this conversation I can feel a pull toward softening just to be fair to him. So before the 20th I'll write down the questions I'm putting to counsel and what answers would move me either way. That way I can't quietly adjust the test after I see the results.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want those questions, and the answers that would move you either way, written down before the 20th so you can't quietly adjust the test. Look at both futures side by side. What stands out to you?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "What stands out is that the two bad futures failed the same way and the good one succeeded for a different reason than I expected. The choice between final and open mattered less than whether the decision was fixed in advance by counsel, in writing, with a default that doesn't depend on any of us finding the nerve later. In both failures my discomfort was doing the work, and in the good one the structure did it.\n\nThat tilts me a little toward the conditioned door, but only if the structure is real. A clean final is simpler and I'd still defend it on the security exposure, though it has nothing built in to check my own bias. So my lean is still final, with less confidence than I started with, and counsel's answers on the 18th will decide whether it holds.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Both bad futures failed because your discomfort was doing the work, and the good one succeeded because the structure did it, so your lean stays final with less confidence, pending what counsel says on the 18th.",
+    "[STEP 4] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's accurate, with one addition. The same discipline has to apply to a clean \"final.\" If I go that way, I want the reasoning and the wording settled with counsel and on the record, so it rests on the security exposure and not on my wanting the matter closed. My lean is still final, but I hold it with less confidence than when we began. What counsel tells me on the 18th will decide whether it holds.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Here's some outside evidence. It's not an answer, just what the wider world is seeing. Nvidia stock fell about 4% on November 9, the first trading day after the board announced its investigation (The Motley Fool, Nov 9, 2026), and analysts noted Nvidia has no disclosed CEO succession plan, and Huang has been its only CEO (Tech Insider, Nov 2026). Does any of this change anything for you?",
+    "[STEP 5] [OUTSIDE_VIEW]"
+  ],
+  [
+    "Persona",
+    "It changes less than it might seem. The 4% drop followed the announcement of the investigation, so it prices uncertainty and tells me little about whether there was compromise. I'd treat it like the petition: it shows how people feel, not what the risk is. The missing succession plan is different, because my duty runs to the institution. It means a clean \"final\" carries a real cost I was underweighting, and that a long open door leaves the interim CEO and the company in limbo. So it doesn't move my lean off final, but it strengthens the case for asking counsel whether a short, hard-deadline conditioned door is workable, and for starting a permanent succession process either way.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You started leaning toward treating the resignation as final, at about 60, because of the national security exposure, the risk that Washington would decide for you if the door stayed open, and a duty to the institution you already held carefully. In the first future, you worried that a clean \"final\" would be read as a verdict, that you'd have closed a door because you couldn't stand not knowing, and that the protection you thought you were buying from Washington would turn out to be mostly imagined. In the second, you found that a conditioned door could be defended even to Congress, if counsel wrote an automatic default and the board never softened it. Here's one tension I noticed: at the start, leaving the door open meant Washington would decide for you, but in both futures Washington's response turned on whether the decision was fixed in advance, not on which option you chose. Does that land?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "It lands, partly. My second reason treated \"open\" as the thing that invites Washington in, and in both futures it was the looseness of the decision that did, not the option itself. That weakens the reason as I first stated it, and I should restate it as a worry about an unstructured open door.\n\nI'd be careful about one thing. Both futures are stories I built, so they show where my reasoning was soft, not how Washington will actually behave. Whether a conditioned door with an automatic default draws less scrutiny than a clean final is a question for counsel on the 18th, and I won't treat my own scenario as the answer.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You won't treat your own scenario as the answer, and whether a conditioned door with an automatic default draws less scrutiny than a clean final is a question for counsel on the 18th. What information do you feel you're missing?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "Mostly four things. First, what the investigation can realistically establish and by when, including whether it can ever rule compromise out, or whether \"no finding\" is the likeliest result. Second, what we've actually learned so far about Huang's contacts with Megaspeed and the second report, since I'm working from press accounts and what the independents have been briefed on. Third, whether our export and security obligations, or any government counterpart, treat an open door as a problem, and I want that through counsel, not through anyone lobbying us. Fourth, how long the interim arrangement can hold without a succession process, since that sets how long a conditioned door can responsibly stay open.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The information you feel you're missing is what the investigation can establish and by when, what you've actually learned about his contacts, whether an open door is treated as a problem on the government side, and how long the interim arrangement can hold. Is there any reason you should step back from this decision?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "I've asked myself that, and I don't think so, but I'd want counsel to confirm it rather than decide it alone. My long acquaintance with Jensen and my respect for him is a personal bias, not a financial or legal conflict, and I've been open that it's pulling on me. The guilt is mostly in the direction of keeping the door open, so I don't think it's what's driving my lean, though I can't be sure. I also oversee the investigation as an independent director, but that's by design, and stepping back would take a vote from a board that needs every independent for something this consequential. What I should do is disclose the friendship and my own caution to counsel and the other independents before the 20th, and let them tell me if they think it matters.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You don't think you should step back, but you'd disclose the friendship and your own caution to counsel and the other independents before the 20th, and let them tell you if it matters.",
+    "[STEP 7] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, and I'd put it plainly, without presenting it as a confession. I should also correct something I said a moment ago. I called the guilt mostly a pull toward keeping the door open, but earlier I admitted my certainty about \"final\" was partly a way of managing that same guilt. It cuts both ways, and I don't know which way it's cutting harder on any given day. So I'd tell counsel and the other independents exactly that, and let them decide whether it affects how much weight my view should carry as audit chair.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The guilt cuts both ways, and you'd tell counsel and the other independents exactly that, so they can decide how much weight your view should carry as audit chair. Where are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm still leaning toward treating the resignation as final, but at about 55. The security exposure still holds that lean, though my case about Washington now rests on an unstructured open door, not on any open door. A tightly conditioned version with an automatic default is a more serious option for me than it was when we began. Counsel's answers on the 18th will decide whether I stay at final or move.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're still leaning toward treating the resignation as final, at about 55, with the security exposure holding that lean and a tightly conditioned door now a more serious option pending counsel on the 18th. What are your top three reasons?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "First, the national security exposure. A CEO who had a relationship with someone reported to be a Chinese intelligence asset is a serious risk for a company this central to US interests, and the investigation hasn't yet told us enough to manage around it.\n\nSecond, Washington, restated. My worry is now about an unstructured open door, one that can be softened under pressure and invites Congress or the agencies to decide for us. A conditioned door with an automatic default might answer that, but only counsel can tell me.\n\nThird, the duty runs to the institution, not to one person. That's still true, though I hold it more carefully now, and the missing succession plan makes a long limbo a real cost to the institution, not just to him.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are the national security exposure, a restated worry about an unstructured open door that Washington could exploit, and a duty to the institution you now hold more carefully because a long limbo is a real cost. What would change your mind?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Mostly written advice from outside counsel on three points. The first is that a conditioned door can be drafted with a hard deadline and an automatic default, so the resignation becomes final if the investigation can't reach an answer. The second is that this structure wouldn't be treated by Congress or the agencies as a failure of our security obligations. The third is that the investigation can credibly say something definitive about what Huang's contacts actually involved. I'd also move if the briefings showed the evidence of compromise is thinner than the press accounts suggest, though I'd want that from counsel, not from anyone with a stake. Investor pressure and the petition alone still wouldn't move me, and I've written down in advance what answers would move me in either direction, so I can't adjust the test afterward.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You've written down in advance what answers would move you either way, so you can't adjust the test afterward. Write the two sentences you'd say to someone whose judgment you respect, to explain your decision.",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm leaning toward treating the resignation as final because a CEO who had a relationship with a reported intelligence asset is a security exposure I can't manage around while the investigation is unfinished. I'll move to a tightly conditioned door only if counsel confirms in writing that it can have a hard deadline and an automatic default, so the structure holds the line and not my own discomfort.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'll move only if counsel confirms in writing that the structure, not your discomfort, holds the line. What will you check before you decide?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Four things before the 20th. First, counsel's written answers on the 18th: whether a hard deadline and an automatic default can be written into the resolution, and whether a clean \"final\" can be worded so it doesn't read as a verdict. Second, what the investigation has actually established so far about his contacts with Megaspeed and the second report, so I'm not leaning on press accounts. Third, whether counsel sees any export or security-obligation reason an open door would be treated as a failure, and how long the interim arrangement can hold without a succession process. Last, I'll compare the answers against the list I wrote in advance, and I'll disclose my friendship with Jensen and my own caution to counsel and the other independents before we vote.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'll check counsel's written answers on the 18th against the list you wrote in advance, and you'll disclose the friendship and your caution before the vote. How are you feeling about it now?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Steadier than when we started, though not at ease. Having the questions and the tests written down helps, because it means counsel's answers will decide this and not whichever feeling is loudest that day. What's left is the uneasiness about Jensen. I don't think that goes away, and I'm not sure it should. I'd rather carry it openly into the vote than let it make the decision for me in either direction.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "**Where I land:** Treating the resignation as final, at about 55.\n**What would change my mind:** Written advice from outside counsel that a conditioned door can be drafted with a hard deadline and an automatic default, that this structure wouldn't be treated by Congress or the agencies as a failure of our security obligations, and that the investigation can credibly say something definitive about what his contacts involved. Thinner evidence of compromise, from counsel rather than from anyone with a stake, would also move me. Investor pressure and the petition would not.\n**What I'll check first:** Counsel's written answers on the 18th, against the list I wrote in advance, and I'll disclose my friendship with Jensen and my own caution before the vote.\n**How I'd explain it:** I'm leaning toward treating the resignation as final because a CEO who had a relationship with a reported intelligence asset is a security exposure I can't manage around while the investigation is unfinished. I'll move to a tightly conditioned door only if counsel confirms in writing that it can have a hard deadline and an automatic default, so the structure holds the line and not my own discomfort.\n\nThank you for doing the work.",
+    "[STEP 8] [HANDOFF]"
+  ],
+  [
+    "Interviewer",
+    "Thanks. To finish, the same short questions as at the start. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward treating the resignation as final, at about 55. That's down from 65 when we started. The security exposure still holds the lean, but a tightly conditioned door with an automatic default is a real option for me now, and counsel's written answers on the 18th will decide whether I stay where I am or move.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, the national security exposure. A CEO who had a relationship with someone reported to be a Chinese intelligence asset is a serious risk for a company this central to US interests, and the investigation hasn't yet told us enough for me to manage around it.\n\nSecond, Washington, though I'd state it more narrowly than I did at the start. My worry is an unstructured open door, one that can be softened under pressure and invites Congress or the agencies to decide for us. Whether a conditioned door with an automatic default avoids that is a question for counsel.\n\nThird, the duty runs to the institution, not to one person. I hold that more carefully now, because it's a comfortable principle and because the missing succession plan means a long limbo costs the institution too.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Mostly written advice from outside counsel. I'd need to hear that a conditioned door can be drafted with a hard deadline and an automatic default, so the resignation becomes final if the investigation can't reach an answer. I'd also need to hear that Congress and the agencies wouldn't treat that structure as a failure of our security obligations. If counsel told me the evidence of compromise is thinner than the press accounts suggest, that would move me too. Investor pressure and the petition alone wouldn't, and I wouldn't move just because I feel guilty about Jensen, which is why I wrote the tests down before the 20th.",
+    ""
+  ]
+]

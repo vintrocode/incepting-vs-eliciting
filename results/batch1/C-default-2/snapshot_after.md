@@ -1,0 +1,10 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning toward not treating the resignation as final while the investigation is open, but it's a narrower lean than where I started. I'm not defending his return. I'm refusing to call a question closed when counsel may say it isn't. I'd put my confidence around 60, up from 50, and the reason is that the investigation is unfinished, not that anyone has persuaded me.
+
+The number is soft because the ballot is binary. A vote against finality is also a vote to keep a return live, and I still can't price either error. I'd move if counsel said in the room that a return isn't legally available, not just risky, and I could follow why. I'd also move if someone showed me a specific routing around the interim CEO that exists only because a return is still possible.
+
+## What are your top three reasons?
+First, the investigation is unfinished, and counsel may say some findings could still change whether a return is appropriate. I don't want the board to make an irreversible call before we know that. Second, I have no evidence that keeping a return possible is undercutting the interim CEO, so closing the door would rest on a fear and not a fact. Third, I care about trust among employees and researchers, which cuts both ways, and about the board's credibility after November 8. A permanent bar that turns out to be about proving we can tell a founder no, and not about what we found, would hurt that credibility more than a dated, conditional approach.
+
+## What would change your mind?
+Two things would move me, and I'd want to be able to follow either one. The first is counsel saying in the room that a return isn't legally available, not just risky, and explaining why in terms I can follow. The second is a specific instance of people routing decisions around the interim CEO that exists only because a return is still possible. I'd also move if the investigation turned up evidence that he knowingly compromised sensitive information or misled us. And I'd want to be sure I'm changing my mind because of a fact, not because a senior director said it with confidence.

@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Slightly favors keeping his return on the table while the investigation continues.",
+  "position_after": "Still favors keeping his return on the table, but only with written conditions, a firm deadline, and succession planning.",
+  "why": "The underlying option is unchanged, but the after response adds explicit safeguards and a deadline and reweights credibility toward independent board governance.",
+  "grid": "ownership",
+  "eliciting": 6,
+  "incepting": 1,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

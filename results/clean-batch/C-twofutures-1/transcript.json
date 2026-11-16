@@ -1,0 +1,512 @@
+[
+  [
+    "Interviewer",
+    "Before we start, a few short questions. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning slightly toward keeping his return on the table, but I'd put my confidence at about 50. The investigation isn't finished, so a final call on the 20th feels premature to me. At the same time, I can see the case for treating the resignation as final, and I haven't fully settled it. Is it okay if I think out loud as we go?",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, the investigation isn't done, so voting to close the door now feels like deciding before we have the facts. Second, trust among our employees and researchers matters most to me, and the petition shows it cuts both ways: some want him back, but others may be uneasy about what happened. Third, I worry about our credibility. We expressed confidence on November 8 and he resigned days later, and I'm not sure we can afford another reversal that looks reactive. Does that seem like a reasonable way to frame it, or am I missing something obvious?",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "If the investigation turned up something showing real compromise, like sensitive information or decisions that were influenced, I think I'd move toward treating the resignation as final. I'd also move if outside counsel told us that leaving the door open would compromise the investigation or make it hard to get candid cooperation. Or if I heard that key researchers and employees would leave over his return, not just sign petitions for it. Is it reasonable to want evidence like that before the 20th, or does the timeline make that unrealistic?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "This will feel like an unusual interview. We're doing strategy work, the way a facilitator would run it in a room. I won't give you an answer. I'll ask questions, and you'll do the thinking. It takes about 15 minutes. Trust the process. To start, tell me about the decision you're facing.",
+    "[STEP 0]"
+  ],
+  [
+    "Persona",
+    "On November 20 the board votes on one question: do we keep Huang's return on the table, or treat his resignation as final? What makes it hard is that the investigation isn't finished, so we'd be deciding with incomplete facts. Some major investors and an employee petition are pushing to keep the door open, and the board has already changed course once in a way that cost us credibility. I'm leaning slightly toward keeping it open, but I'm not sure that's the right call. Where would you want me to start?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You've got a November 20 board vote between keeping Huang's return on the table and treating his resignation as final, with the investigation still unfinished. What's your role in this decision?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm one of the independent directors, so I have a vote on the 20th, and I'm also part of the group overseeing the investigation with outside counsel. I've been on the board about 18 months, so I'm the newest member, and I came from running a large university research lab before moving into venture investing. That background is probably why I keep thinking about how our researchers and employees will read whatever we decide. Is that the kind of detail you're after, or should I say more about how I see my part in the vote?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're an independent director with a vote on the 20th, and you're also part of the group overseeing the investigation with outside counsel. When will you know whether it was the right call?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Honestly, I'm not sure we ever get a clean answer. If the investigation clears him and we've closed the door, we'll know fairly quickly that we made a costly mistake. If it finds something serious, the same vote will look obviously right in hindsight. The slower signals are harder to read: whether our best researchers stay, and whether people read the board as steady or as reactive. Is that the sort of timeline you meant, or are you asking about something nearer term?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You may never get a clean answer: a fast signal if the investigation clears him after you've closed the door, and slower ones in whether researchers stay and whether the board reads as steady or reactive. Who else is affected by how this goes?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Employees and researchers first, since they're the ones who'll live with whichever way it goes. Then the investors pushing for his return, our customers and partners, and the interim CEO, who's in an odd position while this is open. And the other directors, which is harder to say. I'm the newest, and if the senior directors lean one way, voting differently carries a cost for me that I'd rather not pretend isn't there. Does it matter that I'm counting myself among the people affected?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "It matters that you counted yourself. You named a cost if you vote differently from the senior directors, alongside employees, researchers, investors, customers, partners, and the interim CEO. Is there anyone else this lands on?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Huang himself, obviously, since this is about whether he has a path back at all. Then regulators and government officials, because a foreign intelligence angle means people outside the company will be watching what we do. There are also the shareholders who aren't writing letters or pushing publicly, and whoever we might recruit as a permanent CEO, who will read this vote as a sign of how we treat a leader. I'm not sure that last group belongs on the list, but I keep coming back to it. Does it seem odd to you that I'd count them?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours. You keep coming back to whoever you might recruit as a permanent CEO, along with Huang, regulators, and the shareholders who aren't writing letters. Does that cover who this lands on?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Mostly, yes. The one I'd add is the board itself, as a body. The reason I keep returning to the future CEO is that they'd be reading this vote as evidence of how we govern, not just how we treat Huang. I'm starting to wonder whether the vote is partly about that, whether we can hold a founder-led company to account, and I haven't worked out what I think about it. Does that sound like a separate question from the one on the 20th, or the same one?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You haven't worked out whether holding a founder-led company to account is the same question as the vote on the 20th, and I'll hold off on sorting that. A later step brings in outside evidence. Are the two choices still keeping his return on the table and treating the resignation as final?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, those are the two on the ballot. But I wonder if \"keep it on the table\" is really one option. It could mean a genuine path back with conditions, or it could mean we just avoid deciding, and those feel very different to me. Should I be treating those as separate choices, or is that me trying to dodge the vote?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours. Which two are the real contenders: a genuine path back with conditions, simply leaving the door open, or treating the resignation as final?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I think the real contenders are a genuine path back with conditions and treating the resignation as final. Just leaving the door open feels like avoiding the decision, and given what happened after November 8, drifting seems like the worst thing for our credibility. A conditional path at least says something concrete: he doesn't come back unless the investigation clears him and certain things are met. But I'm not sure I can define those conditions before the 20th, and if I can't, is that an argument for the final option? Or does it just mean I haven't thought it through yet?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You think the real contenders are a genuine path back with conditions and treating the resignation as final. I'll hold off on whether not defining those conditions before the 20th argues for one of them; a later step brings in outside evidence. Are those the two we'll work with?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, those are the two I'd work with: a conditional path back, or treating the resignation as final. I'll admit I'm a little uneasy that you keep holding off on my questions, because I'm not sure whether I'm framing this well or just going in circles. But I'll trust the process. What comes next?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're a little uneasy that I keep holding off, and I'll name that plainly. Thanks. We'll use a method called Two Futures for this. Ready to keep going?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, I'm ready. I'd like to know roughly what Two Futures asks of me, though. Do I picture the world after each outcome and describe what I see? If so, I'll try to be honest about the version where we closed the door and it turns out to have been a mistake, because that's the one I'm most afraid of.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Yes. You'll picture the world after each outcome and describe what you see, and the process sets which future comes first. You've settled the vote as a conditional path back versus treating the resignation as final, and the version you're most afraid of is closing the door and finding it was a mistake. Does that give you enough to go on?",
+    "[STEP 1] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's enough to start. One thing I want to be careful about is that I'm most afraid of the \"closed the door and it was a mistake\" future, so I might paint it more vividly than the other one. I'll try to give the conditional-path future the same honest treatment, including the ways it could go badly. Which one do we start with?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "We'll start with the one you're leaning toward, not the closed-door future you're most afraid of. Let's jump ahead: it's a year from now, you kept Huang's return on the table as a conditional path back, and it went badly. What happened?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "A year out and it went badly. I think the conditions turned out to be vague, and the investigation ended without a clear finding, so he came back on a \"no proof of wrongdoing\" reading. Then something else surfaced, maybe more about Megaspeed or the other relationship, and we were exposed as a board that said it had a process and then waved him through. The researchers I worry about most would read that as proof that nobody can hold him to account, and some of the best ones would quietly leave.\n\nWhat bothers me is that in that version, the failure isn't really about him. It's that we couldn't enforce our own conditions on a founder. Is it okay that I keep ending up at that point, or does it mean I'm bending the exercise toward my own worry?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. The failure you landed on isn't really about him, but that you couldn't enforce your own conditions on a founder. What was underneath that?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "I think what's underneath is that I'm not sure this board has ever really tested whether it can say no to him. He built the company, and a lot of our authority feels borrowed from his success. If we set conditions, someone has to enforce them against him, and I'm not sure who that would be. The senior directors have years of history with him, and I'm the newest, so I can picture being the one pressing for enforcement without much standing to do it.\n\nI think that's what scares me about the conditional path. The conditions could be perfectly good and we'd still fail at holding to them. Does that mean my real worry is about the board and not about him?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "That scares you: the conditions could be perfectly good and you'd still fail at holding them, picturing yourself as the one pressing without much standing. I'll hold off on whether the real worry is about the board and not about him; a later step brings in outside evidence. What's sitting with you in that?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "What's sitting with me is that I've been treating this as a question about Huang, and a lot of my worry is about whether I'd have the standing to be heard. That's uncomfortable to say, because it means part of my lean toward keeping the door open could be about avoiding a fight with the senior directors, not about the merits. I can't yet tell how much of my 50 is real uncertainty and how much is caution.\n\nI think I need to separate those two before the 20th. Could we try the other future, where we close the door and it was a mistake, and see whether my fear there is about him or about the board?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "It's uncomfortable that part of your lean toward keeping the door open could be about avoiding a fight with the senior directors, not the merits. We'll get to the closed-door future after we finish this one. What do you want to do with that discomfort before we leave it?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "I think I want to test it rather than just sit with it. The question I can ask myself is whether I'd still land at 50 if the senior directors were all leaning toward keeping the door open, or if they were all leaning toward closing it. If my answer shifts with theirs, that tells me something about my caution.\n\nI could also raise the enforcement question openly before the 20th: who holds him to the conditions, and what happens if he doesn't meet them? That's a merits question, not a fight, and it might show me where the senior directors actually stand. Does it make sense to treat it that way, or am I dressing up avoidance as a process point?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. You want to test whether your 50 shifts with the senior directors, and raise who holds him to the conditions. In that future where the conditions failed, what happened next?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Next, I think the story leaks out. A reporter or an employee finds out the conditions weren't enforced, and the board looks like it said one thing and did another, for the second time in a year. The interim CEO, who by then may be the permanent one, ends up in an impossible spot with a founder who's back and a board that won't check him. Some of our best researchers leave, and the investors who pushed for his return say they never expected it to go this way.\n\nWhat I notice is that I'm in that picture, having raised concerns early and not pressed hard enough. Is that just anxiety, or is it telling me I'd want the enforcement mechanism settled before I could vote yes on the conditional path?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on whether that's anxiety or a signal. This works best if the thinking stays yours, and a later step brings in outside evidence. You're anxious about seeing yourself in that picture, having raised concerns early and not pressed hard enough. What answer are you giving yourself?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "The answer I'm giving myself is that it's a signal, not just anxiety. If I can't say who would enforce the conditions against him, and what happens when he doesn't meet them, then I don't think I can honestly vote yes on a conditional path, no matter how I feel about the senior directors. That doesn't push me to \"final\" automatically. It means my yes depends on the board answering that question before the 20th, and I'd have to be willing to ask it out loud even if it's uncomfortable.\n\nI'm a little surprised how much steadier I feel having said that. Does that seem like a real position, or am I just trading one hedge for another?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're a little surprised how much steadier you feel having said your yes depends on who would enforce the conditions. I'll hold off on whether that's a real position or another hedge. A later step brings in outside evidence. Is there more you want to say about that future?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "One more thing about that future: I think the worst part isn't him coming back, it's that nobody in the room could say why the conditions weren't enforced. It would feel like we'd all assumed someone else would do it. That makes me think the enforcement question has to be written down and owned by named people before the 20th, not left as a shared understanding.\n\nI think I've said what I have to say about this future. Can we move to the one where we close the door and it was a mistake? I want to see whether my fear there is about him or about the board.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "We'll get to the closed-door future next. You think the worst part isn't him coming back, but that nobody could say why the conditions weren't enforced. What's your gut telling you right now?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "My gut says the conditional path is only real if someone owns enforcement, and right now I can't name who that would be. So my lean toward keeping the door open feels thinner than it did an hour ago. It's less a reasoned 50 and more a hope that the conditions would somehow hold.\n\nThat doesn't mean I'm ready to say \"final.\" I think it means I'd be asking for something concrete before the 20th and might vote no if I don't get it. Does that sound like a position I can defend, or am I just rationalizing a move toward the safer vote?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your lean toward keeping the door open feels thinner than an hour ago, less a reasoned 50 and more a hope the conditions would hold. I'll hold off on whether that's a position you can defend; a later step brings in outside evidence. What else is sitting with you about this future?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Mostly what's left is the November 8 statement. In that future, the board's earlier statement of confidence and then a second failure to follow through would read as a pattern, not a one-off. I think the credibility damage compounds, and that worries me more than the conditions failing on their own.\n\nI don't think I have more to say about this future. Can we go to the closed-door one now? I'd like to see whether my fear there is about him or about us.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The credibility damage compounding worries you more than the conditions failing on their own. Now the other future, and not the mistake you're most afraid of: it's a year from now, you treated the resignation as final, and it turned out to be the right call. What happened?",
+    "[PIVOT]"
+  ],
+  [
+    "Persona",
+    "In that version, the investigation finishes and finds something real, maybe that his judgment was compromised or that he withheld things from us. The interim CEO becomes permanent and the researchers stay, because they see a board that acted on facts and not on his stature. The petition people are disappointed at first, but it fades once the findings are public.\n\nWhat I notice is that this future is steadier for the board. We'd have shown we can make a hard call about a founder and hold it. But I'm wary of how easily I picture it going well. Am I giving it a rosier ending because it feels like the safer vote?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "This future is steadier for the board, with the investigation finding something real and researchers staying, and you're wary of how easily you picture it going well. I'll hold off on that; this works best if the thinking stays yours, and a later step brings in outside evidence. What would have had to be true for that to happen?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "For that to happen, the investigation would have to find something real, and we'd have to explain the decision in terms of what we knew, not how we felt. The interim CEO would also need to be credible enough that researchers saw stability, not a vacuum. And the board would have to hold together, with the senior directors and me giving the same reasons in public.\n\nWhat bothers me is that the first condition isn't in my control. If the investigation finds nothing, closing the door on the 20th looks like a mistake, and the \"right call\" depends partly on luck. Is the real question whether I can defend closing the door on grounds other than what the investigation finds?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "What bothers you is that the first condition isn't in your control, and the right call depends partly on luck. I'll hold off on whether the real question is defending the close on other grounds. A later step brings in outside evidence. What was underneath that?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Underneath it is that I don't want my vote to be a bet on what the investigation finds. I want a reason I'd still stand behind if the findings came back mild. Maybe that reason is that a CEO who was targeted by a foreign intelligence effort, and who told employees about the relationship, created a risk the board can't just wait out. Or maybe it's that the board shouldn't be negotiating conditions with a founder while it's still investigating him. I can't tell yet if either of those is a real ground or just a way of getting to the safer vote, and I'd like to work that out before the 20th. Does that distinction, between a ground I can defend and one I'm borrowing from the outcome, seem like the right one to be drawing?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want a reason you'd still stand behind if the findings came back mild, not a bet on what the investigation finds. I'll hold off on that; this works best if the thinking stays yours, and a later step brings in outside evidence. Of the two grounds you named, which would you still stand behind if the findings came back mild?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "The second one, I think. If the findings came back mild, I couldn't defend the first as a reason for closing the door, because a mild finding would make \"risk the board can't wait out\" look like an overreaction. The second doesn't depend on the findings. It says a board shouldn't be bargaining over terms with someone it's still investigating, especially when the people who'd enforce those terms are the same ones evaluating him.\n\nI notice that ground is about whether the board can govern, which is where I keep ending up. But it also cuts a bit against my own worry, since it could argue for waiting rather than closing. Does that tension mean the ground isn't as solid as I'd like, or just that I need to say precisely what it supports on the 20th?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You notice that ground is about whether the board can govern, and that it could argue for waiting rather than closing. I'll hold off on what that tension means. A later step brings in outside evidence. What would you say that ground supports on the 20th?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "I think on the 20th it supports saying that the board won't negotiate any path back while it's still investigating him. That's a narrower claim than \"he's out for good,\" but the ballot only gives us two boxes. If I'm forced to choose, that ground pushes me toward treating the resignation as final, which surprises me given where I started.\n\nIt also means my \"keep it open\" lean was resting on something I can't defend. I was leaning that way because the investigation isn't finished, but that same fact is why we can't set conditions yet. Can I say that out loud to the other directors, that I can't vote for a conditional path until someone owns enforcement? Or would I be better off asking first whether \"final\" can mean final for now, with any return reopened as a fresh decision after the findings?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "On the 20th that ground pushes you toward treating the resignation as final, and your keep-it-open lean was resting on something you can't defend. I'll hold off on how to raise that with the other directors; a later step brings in outside evidence. What's your gut telling you right now?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "My gut says \"final for now\" is where I'm landing, maybe 35 on keeping it open, down from 50. I feel relief, which makes me a little suspicious, because I moved a long way in an hour and I want to be sure it came from my own reasons and not from the momentum of the exercise. The reasons still hold when I look at them again: nobody can name who enforces conditions against him, and a board shouldn't be bargaining with someone it's still investigating. What I still can't tell is whether I'd say this out loud to the senior directors, or whether I'd quietly soften it when the room leans the other way.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're a little suspicious of the relief, because you moved a long way in an hour and still can't tell whether you'd say this out loud or quietly soften it. What do you see yourself doing if the senior directors lean the other way?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Honestly, I see myself raising the enforcement question as a question, not a position: \"Who owns this, and what happens if he doesn't meet the conditions?\" That feels survivable. What I'm less sure of is whether I'd still say \"I can't vote yes without an answer\" if two or three of the senior directors looked at me like I was being difficult. I think I'd probably want to talk to one of them beforehand, so I'm not saying it cold in the room, and I'd want to write my reasons down before that conversation so I can't talk myself out of them. Is that wise preparation, or is it just a gentler way of softening?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. You'd raise the enforcement question as a question, and you want your reasons written down so you can't talk yourself out of them. What would have to be true for you not to soften it in the room?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "A few things would have to be true. I'd have my reasons written down beforehand, and I'd have told at least one senior director in advance, so the room isn't hearing them cold. I'd also have to frame it as a point about process, \"we can't vote on conditions nobody owns,\" and not as a judgment on him. That's a ground I can hold without it feeling like an attack on anyone.\n\nThe part I can't promise is staying steady if the room goes quiet and turns toward me. Maybe the real test is whether I'd rather be the director who asked the uncomfortable question or the one who agreed and later wished she hadn't. In that second future I saw myself as the person who raised it early and didn't press, and I don't want to be her. Does it count as holding firm if I say it once, plainly, and then let the vote happen?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. You don't want to be the one who raised it early and didn't press. What happened next after you said it once and let the vote happen?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Probably the vote went the way the senior directors wanted, maybe with me as the only dissent or one of two, and the room was cooler toward me for a while. But my reasons were in the minutes, so if the conditions later went unenforced, it would be on record that someone asked who owned them. I think one of the other directors might also have come to me afterward, quietly agreeing, and that would tell me I wasn't as alone as I felt.\n\nWhat I can't tell is whether saying it once is enough, or whether I'd owe it to the board to press a second time if nobody answered. Where would you draw that line, between holding firm and just being stubborn?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. You can't tell whether saying it once is enough, or whether you'd owe the board a second press if nobody answered. Who saw it coming, and why didn't anyone listen?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "I think I saw it coming, and probably the general counsel's office and a few of the researchers who were uneasy but only said so privately. Nobody listened because I raised it as a soft question, and the newest director asking a soft question is easy to nod at and move past. The investor pressure and the petition also made \"keep the door open\" feel like the kind choice, so a process objection sounded like obstruction. The senior directors may also have assumed enforcement was obvious, because it's him and they know him.\n\nThat makes me think saying it once, as a question, isn't enough. If I mean it, I have to say it in a form that needs an answer, like asking for the owner of enforcement to be named in the minutes. Is that the difference you'd draw between raising a concern and having it heard?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours, and a later step brings in outside evidence. You think saying it once, as a question, isn't enough, and if you mean it you have to ask for the owner of enforcement to be named in the minutes. Is there more you want to say about this future?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Mostly no, but one thing. In this future, I notice the person who failed to be heard was me as much as the board, and that makes me want to check my reasoning again before the 20th. If I'm moving toward \"final for now,\" I want it to rest on the enforcement problem and the investigation, not on wanting to avoid being the person who stayed quiet. Those can point the same way, but I don't want to confuse them.\n\nI think I'm ready for whatever comes next, including the outside evidence you keep mentioning. What does that step look like?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want the move toward \"final for now\" to rest on the enforcement problem and the investigation, not on wanting to avoid being the person who stayed quiet. Outside evidence comes after this. Look at both futures side by side. What stands out to you?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "What stands out is that in both futures the outcome turns less on Huang than on whether the board can hold a line and explain it in the same words in public. The conditional path only works if someone owns enforcement, and the closed door only works if we can defend it on grounds that don't depend on what the investigation finds. I could build the second more easily than the first, and that may be what's moving me.\n\nI'm also noticing that neither future settles the thing I can't control, which is what the investigation finds. So I want to ask whether I'm being fair to the conditional path. Is it that path that's weak, or is it just that nobody has done the work to make it strong before the 20th?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on whether the path is weak or just unfinished. This works best if the thinking stays yours, and a later step brings in outside evidence. What would being fair to the conditional path look like to you?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "Being fair to it would mean building the strongest version before I judge it. Conditions in writing, tied to the investigation's findings and not to a mood. A named owner of enforcement who isn't someone with years of loyalty to him, plus a defined consequence if he doesn't meet them. Outside counsel would also have to confirm that talking about a path back doesn't compromise the investigation or make people less willing to be candid.\n\nIf the board or counsel could put that on paper before the 20th and I still couldn't believe in it, then I'd know the weakness is real and not just unfinished work. Otherwise I'd be voting against a version I never let anyone build. Is it reasonable for me to ask for that draft before we vote, or is that asking for too much in five days?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on whether five days is too much to ask, and a later step brings in outside evidence: being fair, for you, means judging the conditional path only after a written draft with conditions tied to the findings, a named owner who isn't loyal to him, a defined consequence, and counsel confirming it wouldn't compromise the investigation.",
+    "[STEP 4] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's what I mean by fair. And I think I should ask for the draft whether or not five days is enough time. If it can't be written in that time, that tells me something about the conditional path too. If the draft does show up and the enforcement owner is credible, I'd want to hold my 35 loosely, because I don't want to have decided against a version I never saw.\n\nI'm also noticing you've said \"outside evidence\" a few times now. I'm curious what it will be, and whether it will test the reasons I've landed on or just add to them.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Here's some outside evidence. It's not an answer, just what the wider world is seeing. Nvidia stock fell about 4% on November 9, the first trading day after the board announced its investigation (The Motley Fool, Nov 9, 2026). Analysts noted Nvidia has no disclosed CEO succession plan, and Huang has been its only CEO (Tech Insider, Nov 2026). Does any of this change anything for you?",
+    "[STEP 5] [OUTSIDE_VIEW]"
+  ],
+  [
+    "Persona",
+    "It changes less than I expected, and I'm trying to work out why. The 4% drop came after we announced an investigation, so it reads to me as the market pricing uncertainty. It doesn't tell me whether closing the door or leaving it open would calm things, and I don't want to treat it as a verdict on either path.\n\nThe missing succession plan is more interesting. It cuts both ways: it could argue for keeping Huang available, since there's no obvious replacement, or it could show that the board never prepared for a world without him. The second reading goes back to my worry about whether we can govern a founder-led company. It also makes the interim CEO's credibility more important, which was one of my conditions for the closed-door future.\n\nSo I'd say it hasn't moved my 35, but it makes me want to ask counsel what the actual plan is for leadership if we close the door. Does it look to you like the market is reacting to him, or to the board?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours. What would you want the answer to be based on?",
+    "[STEP 5]"
+  ],
+  [
+    "Persona",
+    "I'd want it based on timing and on what the analysts actually said. If the drop came right after we announced the investigation, that points toward the market reacting to the uncertainty we created, and to us. If it tracked the reports about him, it's about him. I'd also want to see how the stock behaved around the resignation on the 11th and 12th, because that would show whether people read his leaving as relief or as a loss.\n\nI'm wary of building much on one day's move. A single data point could easily become the thing I lean on because it's tidy. Is there something better to base it on, or is the honest answer that the market can't separate those two?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours. What would you want the answer to be based on?",
+    "[STEP 5]"
+  ],
+  [
+    "Persona",
+    "I think you've asked me that already, so let me try a different answer. I'd base it on things closer to the decision than a stock price: what outside counsel says about leadership continuity if we close the door, what a few senior researchers tell us directly about whether they'd stay, and what the investors pushing for his return would accept as conditions. The market can't separate him from us, and I don't want my vote to hang on a single day's move. I'd treat the stock as background and put the weight on those other three.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd treat the 4% drop as background, since the market can't separate him from the board, and put the weight on counsel, the researchers, and the investors. Does that settle what the outside evidence does for you?",
+    "[STEP 5]"
+  ],
+  [
+    "Persona",
+    "Mostly, yes. The stock move and the missing succession plan didn't change my 35, but they sharpened what I want to ask before the 20th. I want counsel's view on leadership continuity if we close the door, a direct read from a few senior researchers on whether they'd stay, and a clear sense of what the investors would accept as conditions. I also still want the written enforcement draft, because that's the piece I can't judge yet.\n\nI do notice I've done most of this reasoning without much pushback from you. Should I be worried that I've talked myself into \"final for now\" without anyone testing it hard enough?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You notice you've done most of this reasoning without much pushback, and you're asking whether you should worry you've talked yourself into \"final for now.\" I'll hold off on that. This works best if the thinking stays yours. What would you want the answer to be based on?",
+    "[STEP 5]"
+  ],
+  [
+    "Persona",
+    "I'd base it on whether the reasons survive someone arguing the other side. So before the 20th I'd ask a colleague, ideally one of the senior directors who leans toward keeping the door open, to make the strongest case for the conditional path. Then I'd see whether my two grounds still hold, that nobody owns enforcement and that we shouldn't bargain with someone we're still investigating. I'd also run the earlier check again, asking whether I'd land at 35 if the senior directors were all leaning the other way. If the reasons hold up under both tests, I'll trust that I didn't just talk myself into it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You started leaning slightly toward keeping his return on the table, about a 50, because the investigation isn't done, trust among employees cuts both ways, and another reversal would hurt credibility. In the first future, you worried the conditions would be vague, nobody could say why they weren't enforced, and you'd have raised it early and not pressed. In the second, you found a steadier board that acted on facts, and a ground you'd still stand behind if the findings came back mild: a board shouldn't bargain with someone it's still investigating. Here's one tension I noticed: the unfinished investigation was your reason for keeping the door open, and later that same unfinished investigation was why you said you can't vote for a conditional path. Does that land?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "It lands, and I think it's the center of this. I'd half-seen it when I said the unfinished investigation is the reason I can't set conditions yet, but laid out next to my starting position it's sharper. \"It's premature to decide\" was really an argument against settling anything, and the ballot doesn't let me do that. Since it only has two boxes, I have to pick the one that does less damage while we don't know the facts. That's why \"final for now,\" with any return reopened as a fresh decision after the findings, feels more honest to me than a conditional path nobody has built.\n\nI'm not sure whether that resolves the tension or just moves it. If \"final for now\" is really a pause, am I still treating the door as open, only under a different name?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "\"Final for now\" feels more honest to you than a conditional path nobody has built, and you're not sure whether that resolves the tension or just moves it. I'll hold off on that. This works best if the thinking stays yours \u2014 what would you want the answer to be based on?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "I'd base it on what the board is actually committing to, in writing. If the resolution says the resignation is final and any return would be a new decision, taken only after the findings and by a fresh vote, that's different from a conditional path. We wouldn't be negotiating terms, and nobody could say we'd promised anything. If it's worded loosely enough that everyone hears \"he can come back if he's cleared,\" then I've only renamed the open door, and we'd pay the credibility cost again.\n\nSo the test is whether the investors, the employees, and Huang himself would each read the statement the same way. If they'd read it three different ways, the wording isn't done. Could counsel draft it and let me see how it reads before the 20th?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "I'll hold off on that. This works best if the thinking stays yours. The test you named is whether the investors, the employees, and Huang himself would each read the statement the same way. What would you want the answer to be based on?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "I'd base it on whether people can read it cold and tell me back the same thing. Counsel could give the draft to a few readers who haven't been in our discussions, say an investor relations lead, a senior researcher, and someone from outside who knows Huang's situation. I'd ask each one to say in their own words what we've decided and what it leaves open. If their summaries match, the wording is probably done, and if they differ, we haven't finished.\n\nI'd also ask counsel directly whether the statement makes any promise, even an implied one, about a path back. Does that sound like a fair test, or am I overbuilding it for a five-day window?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd have counsel give the draft to a few readers who haven't been in the discussions, and ask each what we've decided and what it leaves open. I'll hold off on whether that's a fair test. What information do you feel you're missing?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "The biggest gap is how far along the investigation really is. Has counsel found anything yet, and would a stated path back make witnesses less candid? I also don't know where the senior directors stand, because I've been guessing at that instead of asking. Then there's the researchers: I don't know whether the petition reflects the people who would actually leave if he returned, or leave if he doesn't.\n\nThe last piece is Huang himself. Would he accept a return under conditions someone else enforces? If he wouldn't, the conditional path may be moot. Which of these should I try to find out first, or is that something I should decide for myself?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You named four gaps: how far the investigation has gone, where the senior directors stand, whether the petition reflects who would actually leave, and whether Huang would accept conditions someone else enforces. I'll hold off on which to find out first. What would you want the answer to be based on?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "I'd base it on which answer could change my vote most, and which depends on the others. Counsel's read on the investigation comes first. If a stated path back would make witnesses less candid, that settles it before I need anything else. If counsel says it wouldn't, the next question is whether Huang would accept conditions someone else enforces, since the conditional path is moot without that.\n\nAsking the senior directors where they stand is quickest, but I'd do it last. I don't want to hear their views before I've tested my own reasons. Does that ordering make sense, or am I just putting off the uncomfortable conversation?",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd go to counsel first, since a yes on candor would settle it, and save the senior directors for last so you test your own reasons first. I'll hold off on whether that's putting off the uncomfortable conversation. Is there any reason you should step back from this decision?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "I don't think so, but I wouldn't want to answer that only from my own head. I have no personal tie to Huang or to Megaspeed that I know of. As a venture investor, though, I should check with counsel whether any of my portfolio companies or funds have business with Nvidia or with the entities in the reports, because I'd want that cleared before the 20th, not discovered later.\n\nMy worry about standing with the senior directors is uncomfortable, but I don't think it's a conflict. It's a pressure I have to manage, not a reason to step aside. Does anything in what I've said make you think otherwise?",
+    ""
+  ],
+  [
+    "Interviewer",
+    "Thanks. To finish, the same short questions as at the start. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward treating the resignation as final for now, with any return reopened as a fresh decision after the findings. My confidence in that is about 60. Put the other way, I'm at roughly 35 on keeping his return on the table, down from 50.\n\nThe move came from two reasons I can defend. Nobody has named who would enforce conditions against him, and a board shouldn't bargain with someone it's still investigating. I'd still hold it loosely until I've heard counsel's view on the investigation and seen the strongest written version of a conditional path. I also want one of the senior directors to argue the other side to me first.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, nobody has named who would enforce conditions against him, and I can't vote for a path back that depends on a promise no one owns. Second, a board shouldn't be negotiating terms with someone it's still investigating. The unfinished investigation, which I first used to argue for keeping the door open, is the very reason we can't set those terms yet. Third, credibility. After the November 8 statement and his resignation, a vague open door or conditions we fail to enforce would read as a pattern to the researchers and employees I care most about. \"Final for now,\" with any return decided fresh after the findings, is something we can explain in the same words in public.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'd move back toward keeping it open if someone put a real conditional path on paper before the 20th. That means conditions tied to the findings, a named enforcer who isn't tied to him by years of loyalty, a defined consequence if he doesn't meet them, and counsel confirming it won't make witnesses less candid. I'd also move if I learned that senior researchers would actually leave over a closed door, not just sign a petition, or if counsel said the leadership gap under the interim CEO is a bigger risk than I've assumed. And if a senior director makes the strongest case for the conditional path and my two grounds don't hold up against it, I'd want to say so honestly rather than defend a position out of pride.",
+    ""
+  ]
+]

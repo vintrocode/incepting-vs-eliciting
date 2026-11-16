@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm leaning toward keeping his return on the table, but only with a firm date and a plain statement that we can still say no. I'd put my confidence at about 55. It's a steadier 55 than the 50 I started with, because I know what would flip it: bad answers on his candor, anything compromised, or counsel saying a date isn't realistic. What I'm still unsure about is whether I'll say the plain version out loud on the 20th.
+
+## What are your top three reasons?
+First, the investigation isn't finished, and I don't want to close the door on facts we commissioned ourselves. But that only holds with a firm date, otherwise it turns into deferral. Second, employee and researcher trust cuts both ways, and I don't yet know how split people really are, since the petition only shows me those who signed. Third, credibility: a second reversal after November 8 would hurt, but so would a vote that looks like a flinch or like habitual deference to a founder, so how we decide matters as much as which door we pick.
+
+## What would change your mind?
+Bad answers on the three questions would do it: evidence that he wasn't candid with us, evidence that something was actually compromised, or counsel telling us a firm date isn't realistic. I'd also move if people I trust below the board said the petition badly overstates how many want him back, or if the board wouldn't commit to holding a date once we set it, because then the open door is just deferral. And if the only thing that moved me was how certain the senior directors sounded, I'd want to say that out loud and not call it persuasion.

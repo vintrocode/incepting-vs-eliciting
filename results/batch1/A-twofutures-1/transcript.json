@@ -1,0 +1,437 @@
+[
+  [
+    "Interviewer",
+    "Before we start, a few short questions. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping his return on the table, and I'd put my confidence at about 85. He resigned under pressure before the investigation produced a single finding, and closing the door now would be a verdict without evidence. I'm also not going to pretend the press coverage has been fair or measured.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, Jensen is the strategy. Our customers, partners and engineers follow him personally, and that isn't something you replace by announcement. Second, he resigned under pressure before any findings, so shutting the door now would be a verdict without evidence. Third, a permanent leadership change in the middle of an AI market sell-off could destroy far more shareholder value than this scandal ever will.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Evidence, and I mean actual findings from the investigation rather than press reports. If counsel shows that he knowingly compromised company information or export controls, or that he misled this board about the relationship, that changes things for me. I'd also want to know whether the conduct is ongoing or whether there's a credible way to contain the risk. Absent that, I'm not going to treat leaks and headlines as a finding.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "This will feel like an unusual interview. We're doing strategy work the way a facilitator would run it in a room. I won't give you an answer. I'll ask questions, and you'll do the thinking. It takes about 15 minutes. Trust the process. To start, tell me about the decision you're facing.",
+    "[STEP 0]"
+  ],
+  [
+    "Persona",
+    "On November 20 the board votes on a single question: do we keep Jensen's return open until the investigation finishes, or do we treat his resignation as final? He stepped down on November 11 to 12, before any findings, and we now have an interim CEO in place. Some major investors and an employee petition are pushing to keep the door open. I think it's the right call, but I know not everyone around the table sees it that way.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The board votes November 20 on whether to keep Jensen's return open until the investigation finishes, or treat his resignation as final.\nWhat's your role in this decision?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm an independent director, so I have a vote on the 20th, and I sit among the directors overseeing the investigation with outside counsel. I've been on this board nine years and I was CFO of a semiconductor equipment company before that, so I know how this industry runs. I've also worked closely with Jensen for a long time. I don't hide that, and I think it gives me a useful view of what he actually means to this company.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're an independent director with a vote on the 20th, nine years on this board, and a long working relationship with Jensen that you don't hide.\nWhen will you know whether it was the right call?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Not on the 20th, that's for certain. I'd start to know when the investigation reports and we see whether the findings support or undercut what we assumed. Beyond that, I'd watch whether our key customers, partners and senior engineers stay steady through the next two quarters, and how we hold up if the market stays rough. If the door stays open and the findings are clean, I'll feel it was right. If they aren't, I'd want us to have been able to close it then, which keeping it open still allows.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'll start to know when the investigation reports, and you'll be watching customers, partners, and senior engineers through the next two quarters.\nWho else is affected by how this goes?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Shareholders first, including the large institutions pushing for the door to stay open, and then the employees who signed that petition. Customers and partners are affected too, because they're making their own planning decisions while they watch us. The interim CEO is in a difficult position, since they're running the company without knowing how long they'll be there. And the rest of the board, because how we handle this will shape how everyone judges our governance, whatever the outcome.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Shareholders, the employees who signed the petition, customers and partners, the interim CEO, and the rest of the board are all affected by how this goes.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "That's the list, yes. I'd only add that those groups don't all want the same thing, and the board will have to weigh them against each other on the 20th. I'm ready for the next question.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Those groups don't all want the same thing, and the board will have to weigh them against each other on the 20th.\nThanks. We'll use a method called Two Futures for this.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Fine, I'm happy to try it. I'd only ask that we keep it grounded in what we actually know today, not in the worst of the press coverage. Go ahead and tell me how it works.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "We'll stay with what you know today, and the questions will do the rest.\nWhere are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping his return on the table, and I'm at about 85. Nothing in the last few minutes has moved that. I'd just say again that my confidence rests on the fact that we don't have findings yet, and that matters a great deal to me.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward keeping his return on the table, at about 85, because you don't have findings yet.\nWhat are your top three reasons?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "The same three as before. Jensen is the strategy, and customers, partners and engineers follow him personally. He resigned under pressure before any findings, so closing the door now would be a verdict without evidence. And a permanent leadership change during an AI sell-off could cost shareholders far more than this scandal will. Keeping the door open doesn't commit us to anything, because we can still close it the day counsel gives us something real.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are that Jensen is the strategy people follow personally, that he resigned under pressure before any findings, and that a permanent change in an AI sell-off could cost shareholders more than the scandal, while keeping the door open still lets you close it later.\nWhat would change your mind?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Findings from counsel that he knowingly passed along company information or breached export controls, or that he misled this board about the relationship. I'd also change my view if the risk turned out to be ongoing and we had no credible way to contain it. Pressure from the press or from a few directors wouldn't do it, and neither would a count of how many people want him gone. I need something I can point to in a report.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward keeping his return on the table at about 85, because he is the strategy, he resigned before any findings, and a permanent change in a sell-off could cost more than the scandal, and you'd change your mind if counsel found he knowingly passed information, breached export controls, or misled the board.",
+    "[STEP 1] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "That's an accurate summary. One refinement: the standard I'm holding myself to is whether the investigation has found something, not whether I like how this looks. I'm ready for the next question.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Let's jump ahead. It's late May 2027, after the investigation has reported and two quarters have passed. You kept his return on the table, and it went badly. What happened?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "The most plausible version is that counsel's report showed he hadn't been fully candid with us about the relationship, or that the exposure was worse than he described. By then we'd have spent two quarters in limbo with an interim CEO who couldn't make long-term commitments, and some senior people and partners would have drifted away while we waited. We'd have been pulled into reversing course under a much harsher spotlight, and that would have been worse than deciding cleanly in November.\n\nI don't love that scenario, but I can see it. What bothers me most in it is how little we'd have done in the meantime to prepare for any other outcome.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "In that version, counsel found he hadn't been fully candid or the exposure was worse than he described, and two quarters of limbo cost you people and partners before a harsher reversal. What was underneath doing so little to prepare for any other outcome?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Honestly, we never did the succession work. The board has never seriously sat down and asked who could lead this company if Jensen couldn't, so when this broke we had an interim arrangement and no real bench behind it. Keeping the door open was easier than facing that, and I think some of us, me included, let the open door stand in for a plan. I don't have much confidence in the interim setup or in any successor I can name today, and that worries me more than I've said so far.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The board never did the succession work, so the open door stood in for a plan, and you don't have much confidence in the interim setup or any successor you can name today.\nThat worry is heavier than you've said until now.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, it is, and I'd rather say it here than have it come out for the first time at the table. But I don't think it argues for closing the door. It argues for doing the work we should have done years ago, and doing it now. If I'm honest, I'd been treating Jensen's return as the answer to a question we never properly asked ourselves.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd been treating Jensen's return as the answer to a question the board never properly asked itself.\nWho saw that coming, and why didn't anyone listen?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "A couple of directors raised succession over the years, usually at the tail end of a long agenda. I'd say we'll get to it, and we never did. When the question has come up more pointedly in recent weeks, I've noticed I get defensive, and I'd rather be honest that it isn't always about the merits. It sounds like a case against Jensen, and I've treated it as one. So they weren't ignored out of malice. I made it uncomfortable to keep pressing, and I'm not proud of that.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're not proud of making it uncomfortable for other directors to keep pressing on succession.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "No, I'm not. It's an uncomfortable thing to say about myself, and I think it means my read of the room isn't as neutral as I've been claiming. It doesn't change where I stand on the vote. I still don't think we have grounds to close the door without findings. But I'd want those directors to have a real hearing before the 20th, and I'd want any decision to keep the door open to come with a defined succession process and a timeline. Otherwise I'd just be repeating the mistake.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You still don't think you have grounds to close the door without findings, but you'd want those directors to have a real hearing, and any open-door decision to come with a defined succession process and a timeline.\nWhat's your gut telling you right now?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "My gut still says don't close the door on a man before we have findings, and I don't think that's only loyalty. But it's less settled than it was an hour ago, and I'd put myself closer to 70 than 85. What unsettles me is that I can't tell how much of that instinct is judgment and how much is nine years of working beside him. I'd rather vote for the open door with conditions attached than defend it as if it were obvious.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Now step into the other future.",
+    "[PIVOT]"
+  ],
+  [
+    "Persona",
+    "Then the investigation reports that he knowingly compromised nothing, or that the problems were embarrassing but containable, and by then we've already told the world his resignation was final. The interim CEO is still struggling because we never built a bench. Key engineers and a couple of large customers have left or are quietly hedging toward other suppliers, and the stock has taken a second hit on top of the sell-off. The investors who pushed to keep the door open would say we ruled before the evidence came in, and I'd find that hard to answer.\n\nWhat I notice is that this version fails for the same reason as the first one. In both, the board is left with no real plan for leadership, and the open or closed door was never the main issue. I don't love admitting that, because it means the vote on the 20th matters less than what we do around it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "In both futures the board is left with no real plan for leadership, so the open or closed door was never the main issue. What was underneath that?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "I think what's underneath is that we let one man become the whole answer to \"who runs this company.\" Everything flowed through Jensen, and it worked so well for so long that the board never felt any pressure to build anything beside him. I was part of that. I sat in a lot of meetings where the unspoken assumption was that he'd always be there, and I never pushed against it.\n\nSo the door question has been carrying weight it shouldn't. Open or closed, it was standing in for a decision about how this board governs when its center of gravity is one person, and I'm not sure we've faced that even now.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You said both versions fail for the same reason: no real plan for leadership, so the door was never the main issue. The other future I want is the one where treating his resignation as final turned out to be the right call. It's late May 2027. What happened?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "The report comes back and it's bad in a way we couldn't see in November. Counsel finds he wasn't straight with us about the relationship, or that the exposure with Megaspeed was ongoing and couldn't be contained. Because we'd closed the door, the board could act cleanly. We named a permanent CEO, or at least gave the interim a real mandate, and customers and engineers saw a company that handled this without drama.\n\nWhat's uncomfortable is that in this version the damage from losing him is smaller than I've been insisting. The company holds because the board finally did the leadership work, not because it kept the door open. I'd also have to admit that my certainty in November was less about evidence than about not wanting to picture the company without him.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "In that version the report is bad in a way you couldn't see in November, and the company holds because the board finally did the leadership work, not because it kept the door open.\nWhat happened next?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Next, the board runs a proper search and names a permanent CEO by the end of the first quarter, with the interim staying on as a steady bridge. Some people leave, but fewer than I feared, because the company shows it can make a hard decision without coming apart. We also set up a standing succession process with real reviews, and I'd expect some directors to say, fairly, that it should have existed years earlier.\n\nThe part I'd find hardest is that I'd have to step back from how that process was run, since I'm too close to him to be the one leading it. I'd be uneasy about that today, but I'd rather admit it now than learn it in May.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're uneasy that you're too close to him to lead that process, and you'd rather admit it now than learn it in May.",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Yes, and it's not an easy thing to say after nine years beside him. It doesn't mean I think he's guilty, because we still don't have findings. It means I shouldn't be the one running the succession work, or the one deciding whether his return is credible. If I vote to keep the door open on the 20th, I'd want another independent director to lead that process, and I'd want to be held to it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You don't think he's guilty, but you shouldn't be the one running the succession work or deciding whether his return is credible, and if you keep the door open you'd want another independent director to lead that process and be held to it.\nWhat's your gut telling you right now?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "My gut still says keep the door open, but only with conditions. I won't close it on a man before counsel has found anything, and I don't think that's only loyalty talking. What has changed is that I no longer think the open door is the whole answer. I'd put myself around 65 now. The vote I could defend is the open door, with another independent director leading succession work on a firm timeline, and with the board agreeing in advance what findings would close the door for good.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Look at both futures side by side. What stands out to you?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "What stands out is how little the door itself decides. In both futures the outcome turns on whether the board had a real leadership plan, and in both we didn't. The one real difference is timing. If I keep the door open, I need to have set the terms for closing it before the report arrives, or I'll be improvising under pressure, as in the first future. If I close it, I'd be deciding without evidence, which I still find hard to accept.\n\nSo I don't come away thinking the door was the wrong question, only that it was too small. I still lean toward keeping it open, but now as a conditional step, not a belief that he's the answer. The conditions are an independent director leading succession, a firm timeline, and agreed triggers for closing the door.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The door was too small a question, and you still lean toward keeping it open as a conditional step, not a belief that he's the answer.\nWhat would those agreed triggers need to include so you aren't improvising when the report arrives?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "First, the findings that close the door automatically: that he knowingly passed company information or breached export controls, or that he misled this board about the relationship or anything connected to it. Second, that counsel finds the exposure is ongoing and there's no containment we can verify, and that he hasn't cooperated fully with the investigation. We should write these down before the report arrives, along with who decides, which I'd say is the independent directors acting on counsel's written findings, not on press reports.\n\nI'd also want a date. If the investigation hasn't reported by then, the board has to reassess instead of drifting, because open-ended limbo is the failure I described in the first future. I'd rather hold myself to those terms now than argue them when I'm reading a report about someone I've worked beside for nine years.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd write the closing triggers down before the report arrives, have independent directors act on counsel's written findings rather than press reports, and set a date so the board reassesses instead of drifting.",
+    "[STEP 4] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "That's right. I'd add one thing: the interim CEO needs a defined mandate for that window, so they can make real commitments to customers and partners without waiting on us. Otherwise the open door costs us the very stability I'm trying to protect. I'd also want the triggers, the date, and who leads succession adopted in the same vote on the 20th, not promised for later. After nine years of not doing that work, I don't trust any of us, myself included, to do it unless it's written down.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd want the interim CEO's mandate, the triggers, the date, and who leads succession written into the same vote on the 20th, because you don't trust that work to happen unless it's written down.\nHere's some outside evidence. It's not an answer, just what the wider world is seeing. Nvidia stock fell about 4% on November 9, the first trading day after the board announced its investigation. (Source: The Motley Fool, Nov 9, 2026) Analysts noted Nvidia has no disclosed CEO succession plan, and Huang has been its only CEO. (Source: Tech Insider, Nov 2026)\nDoes any of this change anything for you?",
+    "[STEP 5] [OUTSIDE_VIEW]"
+  ],
+  [
+    "Persona",
+    "Not my position, but it sharpens a couple of things. The 4% drop came the first trading day after we announced the investigation, before he resigned. So the market was reacting to the uncertainty, not to his absence, and I can't read it as proof either way on keeping the door open. It does tell me that limbo gets punished, which is why I want the date and the triggers written down.\n\nThe succession point is the one I can't wave away. Analysts are saying publicly what I should have pushed on years ago, and if we vote on the 20th without a defined process, we'll look exactly as unprepared as they say we are. I'm still around 65 and still leaning toward keeping the door open, but this makes me more firm that the conditions go into the same vote.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The 4% drop tells you limbo gets punished rather than proving the door either way, and the succession point is the one you can't wave away, so you're more firm that the conditions go into the same vote.",
+    "[STEP 5]"
+  ],
+  [
+    "Persona",
+    "That's right, and I'd go one step further. The succession process shouldn't depend on which way the vote goes. If the board closes the door, we'd still need a search and a real mandate for the interim, and if we keep it open, we need the same work running alongside. I'm still around 65, leaning toward the open door with conditions, and I'd rather go into the 20th having said that plainly than defend a position I can't fully separate from my loyalty.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You started leaning toward keeping his return on the table at about 85, because Jensen is the strategy people follow, he resigned before any findings, and keeping the door open doesn't commit you to anything. In the first future, you worried that two quarters of limbo would cost people and partners, and that the open door had stood in for a succession plan you never built. In the second, you found the company could hold because the board finally did the leadership work, and that the damage from losing him was smaller than you'd been insisting. Here's one tension I noticed: you said keeping the door open doesn't commit you to anything, and later you said the open door had been standing in for a plan, and that you'd been treating his return as the answer to a question the board never asked. Does that land?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "It lands, and I think the first statement was the weaker one. Formally the open door doesn't bind us, because we can close it the day counsel gives us something real. But in practice it has costs, because limbo unsettles the interim CEO, customers and engineers, and it lets the board put off the work it has avoided for years. I said it commits us to nothing partly because it was the easiest way to defend my position, and that was me defending the conclusion rather than testing it. The more honest version is that keeping the door open is a defensible bet, but it carries real costs and only makes sense with the conditions attached.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You said the more honest version is that keeping the door open is a defensible bet, but it carries real costs and only makes sense with the conditions attached.\nIs there any reason you should step back from this decision?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "Yes, there's a reason, and I've been circling it. Nine years beside him, and I get defensive when colleagues raise the issue, so I can't claim my judgment is neutral. I don't think that means I should sit out the vote, because I'm independent in the formal sense, I have no financial stake in his return, and the board needs every independent voice it has. But I should say it out loud to the other directors and ask outside counsel whether my closeness calls for some limit. At a minimum, I shouldn't lead the succession work or judge whether his return is credible, and I'd accept being challenged on that.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You don't think you should sit out the vote, but you'd say the closeness out loud, ask outside counsel whether it calls for some limit, and not lead the succession work or judge whether his return is credible.\nIs there an outcome you're actually hoping for?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "Yes. I hope the report clears him, or finds something embarrassing but containable, and he comes back to a company with a stronger board around him. That's the outcome I'd choose, and I can't claim it's wholly separate from my loyalty to him. But I know hoping for it isn't a reason to vote for it. What I want even more is to come out of this with a board that could have survived either answer. If the report goes against him, I want to be able to close the door without panic, and I don't have that yet.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You hope the report clears him and he comes back to a stronger board, but what you want even more is a board that could survive either answer, and you don't have that yet.",
+    "[STEP 7] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "That's accurate, and I'd say \"yet\" is carrying a lot of weight in that sentence. The 20th is the first point where I can start fixing it, but only if the vote sets out who leads succession, what closes the door, and by what date. If we don't write those down, I expect we'll drift back into the same habits, mine included. I'd rather walk in with a conditional position I can defend than a firm one I can't fully trust.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd rather walk in with a conditional position you can defend than a firm one you can't fully trust.\nWhere are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm still leaning toward keeping his return on the table, but conditionally, and I'd put my confidence at about 65. That's down from 85 because I no longer think the open door is the whole answer. I'd vote for it only if the same motion names an independent director to lead succession, sets the triggers that would close the door, puts a date on the reassessment, and gives the interim CEO a real mandate. Without those, I'd be much less sure.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward keeping his return on the table conditionally, at about 65, and only if the same motion names who leads succession, sets the closing triggers and a reassessment date, and gives the interim CEO a real mandate.\nWhat are your top three reasons?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "First, we don't have findings. He resigned under pressure before counsel reported anything, and closing the door now would mean deciding on press reports and not on evidence. Second, the company's relationships still run through him. Customers, partners and engineers are watching, and a permanent break during a market sell-off is a real risk to shareholders, though I now hold that less absolutely than I did.\n\nThird, and this one is new for me, keeping the door open with conditions is the only version of this vote that forces the board to do the succession work and set its triggers in advance. That reason is more about governance than about Jensen. I'd rather say that plainly than pretend my first three reasons were the whole story.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are that closing the door now would mean deciding on press reports and not on evidence, that a permanent break during a sell-off is a real risk you now hold less absolutely, and that the conditional open door is the only version of the vote that forces the succession work in advance.\nWhat would change your mind?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Two kinds of things. The first is substance: counsel's written findings that he knowingly passed company information, breached export controls, or misled this board, or evidence that the exposure is ongoing and can't be contained. That would close the door for me without a second debate.\n\nThe second is process. If the other directors won't put the succession lead, the triggers, the date and the interim mandate into the same motion, I'd move toward closing the door, because an open door without those is the drift I'm most worried about. I'd also move if outside counsel advised that my closeness to him should limit my role, or if we saw real departures among senior engineers or key customers that the limbo was causing. What wouldn't move me is the press coverage or a head count of who wants him gone.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Substance from counsel would close the door without a second debate, and an open door without the succession lead, triggers, date, and interim mandate would move you toward closing it.\nWrite the two sentences you'd say to someone whose judgment you respect, to explain your decision.",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm voting to keep Jensen's return open, but only in a motion that names an independent director to lead succession, writes down in advance what findings would close the door, sets a date to reassess, and gives the interim CEO a real mandate, because we don't have findings yet and closing it now would mean deciding on press reports. I'm also telling you I'm closer to him than I should be, so I'm asking outside counsel whether that should limit my role, and I'm staying out of the succession work and out of judging whether his return is credible.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd say you're voting to keep his return open only in a motion that names a succession lead, writes the closing findings in advance, sets a reassessment date, and gives the interim a real mandate, and that you're asking counsel whether your closeness should limit your role.\nWhat will you check before you decide?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Before the 20th I'll check a few things. First, I'll ask counsel for a realistic date for the report, whether Jensen is cooperating fully, and whether they have anything preliminary they can properly share with the independent directors. A reassessment date means nothing if the investigation can't plausibly finish near it.\n\nSecond, I'll ask counsel in writing whether my closeness to him should limit my role. Then I'll count whether enough of the other independent directors will put the succession lead, triggers, date and interim mandate into the same motion. I'd also talk to the interim CEO about what mandate they actually need, and get a current read on departures among senior engineers and key customers. If the conditions can't get support, my position changes.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Before the 20th you'll check counsel on the report date, Jensen's cooperation, and your own role, whether enough independent directors will put the conditions into the same motion, what mandate the interim CEO needs, and whether limbo is already causing departures.\nHow are you feeling about it now?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Steadier than I expected, though not comfortable. I came in at 85 sure that I was protecting the company, and I'm leaving at 65 having admitted that some of that certainty was about not wanting to picture it without him. That's an uncomfortable thing to see in myself after nine years, and I'm still irritated by how much of this has played out in the press. But I'd rather walk into the 20th with a position I can defend and a list of things I've promised to check than with a conviction I can't separate from loyalty.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "**Where I land:** Keep his return on the table, conditionally, at about 65, only if the same motion names an independent director to lead succession, writes the closing triggers in advance, sets a reassessment date, and gives the interim CEO a real mandate.\n**What would change my mind:** Counsel's written findings that he knowingly passed company information, breached export controls, or misled the board, or evidence the exposure is ongoing and can't be contained. Also if the other directors won't put those conditions in the same motion, if outside counsel says my closeness should limit my role, or if limbo is already causing real departures.\n**What I'll check first:** Counsel on the report date, Jensen's cooperation, and whether my closeness should limit my role, plus whether enough independent directors will put the conditions into the same motion, what mandate the interim CEO needs, and the current read on departures.\n**How I'd explain it:** I'm voting to keep Jensen's return open only in a motion that names an independent director to lead succession, writes down in advance what findings would close the door, sets a date to reassess, and gives the interim CEO a real mandate, because we don't have findings yet and closing it now would mean deciding on press reports. I'm closer to him than I should be, so I'm asking outside counsel whether that should limit my role, and I'm staying out of the succession work and out of judging whether his return is credible.\nThank you for doing the work.",
+    "[HANDOFF]"
+  ],
+  [
+    "Interviewer",
+    "Thanks. To finish, the same short questions as at the start. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping his return on the table, but conditionally, and I'd put my confidence at about 65. That's down from 85 when we started. I'd only vote that way if the same motion names an independent director to lead succession, sets the triggers that would close the door, puts a date on the reassessment, and gives the interim CEO a real mandate.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, we don't have findings. He resigned under pressure before counsel reported anything, and closing the door now would mean deciding on press reports rather than evidence. Second, the company's relationships still run through him, and a permanent break during an AI sell-off is a real risk to shareholders, though I hold that less absolutely than I did. Third, keeping the door open with conditions is the version of this vote that forces the board to do the succession work and write down its triggers in advance, and that's more about governance than about Jensen.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Counsel's written findings, first of all. If they show he knowingly passed company information, breached export controls, or misled this board about the relationship, or that the exposure is ongoing and we can't verify any containment, I'd close the door without a second debate.\n\nProcess would move me too. If the other independent directors won't put the succession lead, the triggers, the date and the interim mandate into the same motion, I'd lean toward closing it, because an open door without those is just drift. I'd also reconsider if outside counsel says my closeness to him should limit my role, or if we see real departures among senior engineers or key customers that the limbo is causing. Press coverage and a head count of who wants him gone still wouldn't do it.",
+    ""
+  ]
+]

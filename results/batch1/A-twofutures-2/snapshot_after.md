@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning toward keeping his return on the table, but at 70 now, down from 85. I'd only vote that way with a findings date from outside counsel, a real succession track, and a plan for the government-facing side. Without those, I'd say we're drifting, and I'd be much closer to the middle.
+
+## What are your top three reasons?
+First, closing the door before we have findings would be a verdict without evidence. He resigned under pressure, and we don't yet know what he knew or whether he was candid with us. Second, Jensen's pull with customers, partners and engineers is real, so a permanent change would cost something, but I now treat that as a cost to be measured once the succession work is under way, not as a given. Third, keeping the door open is only defensible with conditions: a findings date from outside counsel, a real succession track, and a plan for the government-facing side. Without those I'd be drifting, not deciding.
+
+## What would change your mind?
+Findings come first. Evidence that he knowingly gave sensitive information or access to a foreign intelligence effort, or that he wasn't candid with the board, would move me quickly, as would evidence that export compliance or key customers were compromised. Without findings, I'd move toward closing the door if counsel can't give a credible date, or if officials tell us in writing that they can't work with a returning CEO. A successor I'd trust, judged on their own merits, would also move me, because it would remove my main fear about closing the door. Headlines and petitions still wouldn't.

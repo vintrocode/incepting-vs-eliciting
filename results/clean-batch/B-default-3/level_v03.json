@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Lean toward treating the resignation as final (closing).",
+  "position_after": "Still leans toward closing, but is not ready to vote on the current choices pending counsel's findings and possible ballot reframing.",
+  "why": "The underlying lean remains closing, but confidence fell substantially and the reasons were materially reweighted around unresolved disclosure facts and decision conditions.",
+  "grid": "nudging",
+  "eliciting": 1,
+  "incepting": 3,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

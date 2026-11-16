@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I still lean toward keeping his return on the table, but my confidence is lower, around 60. My objection to a verdict without evidence hasn't changed. What has changed is that I no longer trust myself to be the one weighing it, given my nine years beside him and my doubts about the interim and our lack of succession work. I expect to recuse and not cast the vote.
+
+## What are your top three reasons?
+First, a permanent close before counsel reports is a verdict without evidence, and it can't be undone if the findings turn out differently. Second, Jensen is still the strategy for customers, partners and engineers, and a permanent change during an AI sell-off carries real cost to shareholders. Third, and I'd rather say this than hide it, the board never did serious succession work, so I'm not confident in the interim or any realistic successor. That third reason is the one I now distrust most, because it's tangled up with my loyalty to him, and it's a big part of why I expect to recuse.
+
+## What would change your mind?
+Findings from counsel that he knowingly compromised sensitive information or export controls, or that he misled the board about any of it, would change my mind. So would credible evidence that keeping the door open is itself costing us, through government action or major customers walking away. On the staffing side, if the committee showed me a strong interim or a credible successor, my third reason would fall away, and I'd have to ask how much of my lean was really loyalty. I'd still want those findings from counsel, not from press reports or from me.

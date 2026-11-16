@@ -1,0 +1,467 @@
+[
+  [
+    "Interviewer",
+    "Before we start, a few short questions. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward treating the resignation as final. My confidence is about 65 out of 100. I think the national security exposure and the pressure from Washington are serious enough that the board shouldn't leave the door open, but I'm conscious the investigation isn't finished, so I'm holding that with some care.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, a CEO who had a relationship with someone reported to be a foreign intelligence asset is a national security risk, and Nvidia is too important to US interests for the board to treat that lightly. Second, congressional scrutiny is only beginning, and if we keep his return open, I think we invite Washington to make the decision for us. Third, our duty is to the institution, not to any one person, however brilliant he is.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Mostly evidence, and mostly on the legal and regulatory side. If outside counsel told me the investigation had found no compromise of company information or decisions, and that the relevant agencies and Congress would not treat his return as a continuing exposure, I would have to reconsider. I'd also want to know whether any safeguards, such as restricted access or independent oversight, could be put in place that would satisfy regulators and not just us. I wouldn't change my view because investors or employees are pushing hard, though. That kind of pressure doesn't speak to the underlying risk.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "This will feel like an unusual interview. We're doing strategy work, the way a facilitator would run it in a room. I won't give you an answer. I'll ask questions, and you'll do the thinking. It takes about 15 minutes. Trust the process. To start, tell me about the decision you're facing.",
+    "[STEP 0]"
+  ],
+  [
+    "Persona",
+    "On November 20, the board votes on a single question: do we keep Jensen's return on the table once the investigation concludes, or do we treat his resignation as final? He resigned on the eleventh, there's an interim CEO in place, and the investigation, which independent directors are overseeing with outside counsel, isn't finished. Some major investors and an employee petition are pressing us to leave the door open. I lean toward closing it, but I'm being asked to decide before we have the full findings, and that is what makes it difficult.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You described a November 20 board vote on whether Jensen's return stays open after the investigation, or his resignation is treated as final. What's your role in this decision?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm one of the independent directors, so I have a vote on November 20 and I'm part of the group overseeing the investigation with outside counsel. I've been on the board three years and I chair the audit committee. Before that I was general counsel at a defense contractor, so I tend to look at this through a legal and national security lens. I'm one vote among several, but people may give some weight to how I read the compliance and regulatory exposure.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're an independent director with a vote on November 20, you chair the audit committee, and you help oversee the investigation, reading it through a legal and national security lens. When will you know whether it was the right call?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm not sure we ever get a clean answer, because we won't see the version where we decided the other way. The nearest signals would come over the next six to twelve months: how Congress and the relevant agencies respond, whether our government and customer relationships stay steady, and whether the investigation's final findings hold up the reasoning we used. If the findings show no compromise and Washington stays quiet, people may say we acted too hastily. If something surfaces later, the question will be why we left the door open. I'd want to be able to say the decision was defensible on what we knew at the time, but that's a lower bar than being right.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd look over the next six to twelve months at how Congress and the agencies respond, whether government and customer relationships stay steady, and whether the findings hold up the reasoning, knowing you may never see the road not taken. Who else is affected by how this goes?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Quite a few people. Shareholders, obviously, and the employees who signed the petition, because many of them see Jensen as the reason the company is what it is. Then there's the interim CEO, who can't lead with much authority while this is open, and our government and customer relationships, which depend on trust in how we govern ourselves. The board is affected too. Whatever we decide will be read as a statement about whether we can hold a line under pressure, and I'm not sure either answer reads cleanly. Keeping the door open could look like we gave way to investors, and closing it before the findings are in could look like we already know something.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Shareholders, the employees who signed the petition, the interim CEO, government and customer relationships, and the board are all affected, and you're not sure either answer reads cleanly.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, that's a fair summary. The part I keep returning to is that the two risks aren't symmetrical. If we keep the door open and something later surfaces, the failure is ours and it's visible. If we close it and the findings come back clean, we've cost the company a leader and we can't easily undo that. I still lean toward closing it, but I want to be sure I'm weighing that asymmetry honestly and not just choosing the option that is easier to defend.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You still lean toward closing it, and you want to weigh that asymmetry honestly rather than choose the option that is easier to defend. What would make closing it the easier one to defend?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Closing it is easier to defend because nobody gets criticized for being cautious about a foreign intelligence concern. If I vote to keep the door open, I have to explain why we accepted a risk that Washington may see as unacceptable. If I vote to close it, the explanation is short and sounds principled. As a lawyer I know that being easy to defend and being right are different things.\n\nThere's also something more personal. I respect Jensen, and I'm not comfortable with where I'm leaning. I suspect some of my certainty is there to help me carry that discomfort, which is why I'm trying to test it instead of just trusting it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You respect Jensen, you're not comfortable with where you're leaning, and you suspect some of that certainty is there to help you carry the discomfort. Before we go on, are the two options keeping his return on the table once the investigation concludes, or treating the resignation as final?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Yes, those are the two options on the ballot. Keeping his return on the table means the door stays open, and the board decides after the findings are in. Treating the resignation as final means we've decided now, before the investigation concludes, that he doesn't come back. The vote doesn't decide whether he returns. It decides whether we allow ourselves to consider it, and I think that distinction matters more than the headlines suggest.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You confirmed the ballot is whether the door stays open so the board can decide after the findings, or the resignation is treated as final now. Thanks. We'll use a method called Two Futures for this.",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "That's fine, I'm happy to try it. I'd ask that we treat both futures with the same rigor, because I know my instinct is to make the \"closed\" future look tidier than it will really be. I'm ready when you are.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "We'll treat both futures with the same rigor. Where are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "I'm still leaning toward treating the resignation as final, but my confidence is about 60 now, a little lower than the 65 I started with. Part of that is saying out loud that this vote only decides whether we're allowed to consider his return, not whether he returns. The other part is admitting that some of my certainty may be about managing my own discomfort. The national security and congressional concerns still carry most of the weight for me.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward treating the resignation as final, at about 60. What are your top three reasons?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "First, a CEO who had a relationship with someone reported to be a foreign intelligence asset is a national security risk, and Nvidia is too important to US interests for us to treat that as manageable. Second, congressional scrutiny is only starting, and if we keep his return open, I think we invite Washington to act in our place. Third, our duty is to the institution and not to any one person, however brilliant. Those are the reasons I'd defend in front of anyone, though I know the investigation hasn't yet told us how much weight the first one deserves.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are the national security risk, the risk that Congress acts in the board's place, and the duty to the institution over any one person. What would change your mind?",
+    "[STEP 1]"
+  ],
+  [
+    "Persona",
+    "Mostly evidence on the legal and regulatory side. If outside counsel found no compromise of company information or decisions, and the agencies and Congress signaled they wouldn't treat his return as a continuing exposure, I'd have to reconsider. I'd also want to know whether safeguards like restricted access or independent oversight could satisfy regulators and not only us. Pressure from investors or the petition wouldn't move me by itself, because it says nothing about the underlying risk. But if the evidence showed that closing the door now costs us something real that we can't recover, I'd take that seriously.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward treating the resignation as final, at about 60, because of the national security risk, the chance Congress acts in the board's place, and the duty to the institution over any one person, and you'd reconsider if counsel found no compromise and Washington signaled his return would not be a continuing exposure.",
+    "[STEP 1] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's accurate. The one thing I'd add is that \"no compromise\" has to mean something we can verify and defend to regulators, not just the absence of findings so far. An investigation that hasn't finished can't tell us that. So my 60 rests partly on the evidence we don't have yet, and I'm trying to be honest with myself about that.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want \"no compromise\" to mean something you can verify and defend to regulators, not just the absence of findings so far, and your 60 rests partly on evidence you don't have yet. Let's jump ahead. It's November 2027. You voted to treat the resignation as final. It went badly. What happened?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "The most plausible version is that the investigation finished in early 2027 and found no compromise of company information or decisions. Outside counsel and the agencies were comfortable, but by then we had already told Jensen and the world that the door was shut. The interim CEO never got real authority, senior engineers and some of the people around Jensen left, and a competitor used the disruption. Investors then asked why we ruled on something before our own investigation had finished. I think our answer would have sounded like we acted to protect ourselves, not the company, and I'd have to admit that is partly what I was doing. The cost wouldn't be a scandal. It would be a quiet, unrecoverable loss that no one could trace to a single decision except ours.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You pictured a quiet, unrecoverable loss: the findings came back clean, talent left, and the answer sounded like you acted to protect yourselves. What was underneath that?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Underneath it was a fear of being seen as the board that flinched, and I think that fear was doing more work than my stated reasons. Closing the door felt like proof we could hold a line. But a line held before the evidence is in is just a decision made early, and I'm not sure it shows strength. There's also the plain fact that I'd be ending the career of someone I respect, and a firm, principled position makes that easier to live with. That doesn't make the national security concern false, but I can't say with confidence how much of my 60 is judgment and how much is my own need for the matter to feel settled.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're carrying that you'd be ending the career of someone you respect, and a firm, principled position makes that easier to live with.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, and I'd rather say that plainly than leave it unspoken. The discomfort doesn't tell me which way to vote. It only tells me to check whether my reasons would hold if I felt nothing about him. When I strip it away, the national security concern still stands, but the case for closing the door before the findings are in is weaker than I've been presenting it. What I can't yet tell is whether the risk is serious enough to justify deciding now, or whether I'm treating a decision that could wait as one that can't.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "When you strip the discomfort away, the national security concern still stands, but the case for closing the door before the findings are in is weaker than you've been presenting it. What would have had to be true for that early close to become the quiet loss you described?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Several things would have had to be true. The investigation would have to find no compromise in a way outside counsel could defend to regulators, and Washington would have to stay quiet or accept safeguards, so that leaving the door open never carried the cost I feared. The interim arrangement would also have to be fragile enough that waiting weeks or months did real damage, and nothing forced us to decide on the twentieth rather than when the findings came in. If all of that held, closing early bought us only the look of resolve, and I'd have given up an option for no reason. What I need to find out before the vote is whether a real deadline or regulatory pressure exists that makes waiting costly, or whether I've been treating the date as the reason to decide.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "If all of that held, closing early bought only the look of resolve, and you gave up an option for no reason. Who saw that coming, and why didn't anyone listen?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "The people who would have seen it are probably the ones pushing to wait: the large investors, whoever drafted the petition, and perhaps a fellow director who argued the vote could follow the findings. I think I'd have discounted them because the argument came wrapped in pressure. I had told myself pressure says nothing about the underlying risk, and that made it easy to dismiss the substance along with the pressure. I also half saw it myself, which is the uncomfortable part. I wasn't talked out of my position, but I was wary of being talked out of something that felt principled, and that wariness kept me from testing it as hard as I should have.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You half saw it yourself, and the discomfort is that wariness of being talked out of something that felt principled kept you from testing it as hard as you should have.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, that's accurate, and it's not a comfortable thing to see. Wariness is useful when someone is pushing me toward a conclusion for bad reasons. It becomes a problem when it stops me from checking my own reasoning. I don't think the national security concern disappears, but I'd want counsel to tell me plainly whether anything forces a decision on the twentieth, and whether keeping the door open could be framed as waiting for the findings rather than yielding to investors. If it can, I may have been defending a line that doesn't need defending yet.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You want counsel to say plainly whether anything forces a decision on the twentieth, and whether keeping the door open could be framed as waiting for the findings rather than yielding. What's your gut telling you right now?",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "My gut says wait, and that's a little surprising to me. It says closing the door now feels more like relief than judgment, and I don't trust relief as a basis for a vote. But I also feel a pull the other way. If Washington reads an open door as the board protecting him, I'd want to have a clear answer ready. So my instinct is to hold the question open until the findings are in, as long as we can say plainly that we're waiting for evidence and not making room for him. I'm not at ease with that either, but I'd rather be uneasy for the right reason.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're a little surprised your gut says wait, because closing the door now feels more like relief than judgment, and you'd rather be uneasy for the right reason.",
+    "[STEP 2]"
+  ],
+  [
+    "Persona",
+    "Yes, and I want to be careful not to overcorrect. Swinging to \"wait\" because I've just caught myself seeking relief isn't automatically better judgment. It could be another way of dodging the harder call. So I'd want any decision to keep the door open to rest on specifics: that counsel confirms nothing forces a vote on the twentieth, and that we can state plainly to Washington and to investors that we're waiting for findings, not making room for him. If we can't say that credibly, my original concern about the signal we'd be sending comes back with full weight.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Swinging to wait because you've just caught yourself seeking relief isn't automatically better judgment, and any open door would have to rest on counsel confirming nothing forces a vote on the twentieth and a plain statement that you're waiting for findings. Now step into the other future.",
+    "[STEP 2] [PIVOT]"
+  ],
+  [
+    "Persona",
+    "The investigation ran into the spring and found something ambiguous, not a clean answer: contacts that couldn't be fully explained, or information that may have gone somewhere it shouldn't. Because we'd kept the door open, a committee in Washington asked why the board was still entertaining his return. Our answer, that we were waiting for findings, sounded like cover for yielding to the large investors, and the petition gave that reading its evidence. The cost was visible and it was ours: scrutiny of government contracts and export matters, an interim CEO who was never allowed to lead, and a board that looked unable to hold a line under pressure. What I'd have to face is that I saw this risk clearly and let the uncertainty talk me out of the caution I started with.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You pictured the open door drawing Washington in, and you'd have to face that you saw the risk and let the uncertainty talk you out of the caution you started with. The other future asks for the version where keeping his return on the table turned out to be the right call. It's November 2027, you left the door open, and it was the right call. What happened?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "The investigation finished in the first quarter of 2027, and outside counsel could say, in terms we could defend to regulators, that there was no compromise of company information or decisions. Because we had said from the start that we were waiting for findings, we briefed the relevant committees before any decision about him, and the conversation was about the evidence and the safeguards, not about whether we'd protected him. Whether he came back, and in what role, was decided on that record, with independent oversight and restricted access that Washington could accept. The company kept its leader and its engineers, and the board looked like one that follows its own process instead of ruling in advance. What I'd have to admit is that the principled-sounding position I walked in with would have cost us all of that.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You pictured findings clean enough to defend, a briefing before any decision about him, and a board that followed its own process instead of ruling in advance. What would have had to be true for that to happen?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Several things would have had to line up, and I don't control most of them. The investigation would have to be independent and thorough enough that its clean finding survived scrutiny, and Jensen would have to cooperate fully, including on the second reported relationship, which I can't wave away. We would also have to brief the committees and the relevant agencies early, before anyone read the open door as protection. The interim CEO would need real authority in the meantime, and the board would need to say one consistent thing: we are waiting for evidence, not making room for him. I notice that almost all of this depends on how well we execute, and I'm not sure I trust the board, myself included, to do that under pressure.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You notice almost all of this depends on how well you execute, and you're not sure you trust the board, yourself included, to do that under pressure. What was underneath that?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "Underneath it is that closing the door is a single act, and keeping it open means weeks of discipline. We would have to hold one message while the press, the investors, and Washington each try to read something else into it. I've seen how boards behave when a bad headline arrives, and I know that part of my pull toward \"final\" is that it spares us that test. I'm also not sure I would stay steady myself. If a new report landed in the middle of the investigation, I might reach for certainty again and call it principle. So the question for me is less whether waiting is right in theory than whether we can carry it out, and I don't have a confident answer to that yet.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Closing the door is a single act that spares you a test of weeks of discipline, and you're not sure you'd stay steady if a new report landed. What happened next?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "In that future, a new report did land that winter, and it was the real test. What I think held us together was that we had agreed in advance what would close the door: any credible evidence that company information or decisions were compromised, or any refusal by Jensen to cooperate. So when the report came out, we weren't improvising. We asked counsel whether it met that standard, and when it didn't, we said so plainly and kept going.\n\nThat's what I'd want from the twentieth. If the board keeps the door open, it should do it with those conditions written down, so that I'm not relying on my own steadiness in the moment. I'd be much more comfortable with the open door if it came with a trigger we'd committed to than if it rested on our nerve.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd be much more comfortable with the open door if it came with a trigger you'd committed to than if it rested on your nerve. What's your gut telling you right now?",
+    "[STEP 3]"
+  ],
+  [
+    "Persona",
+    "My gut says keep the door open, but only with the conditions written down and agreed before the twentieth. That means a defined trigger for closing it, early briefings to the committees, and a message the whole board can repeat without improvising. I'm more settled than I was an hour ago, but I don't fully trust that, because it's the same relief I distrusted on the other side. So I'd rather put it as a lean, not a conclusion: I'd vote to wait if counsel confirms nothing forces the decision now, and if I'm honest, if I think this board can actually hold to the conditions. If I doubt that, I'm back to where I started.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd vote to wait if counsel confirms nothing forces the decision now, and only if you think this board can hold the conditions. Look at both futures side by side. What stands out to you?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "What stands out is that in both futures the vote on the twentieth wasn't what decided the outcome. What decided it was what the investigation found and whether we handled the weeks afterward with discipline. I walked in treating closing the door as the safe, principled act, but in my own telling it was the one that most easily turned into a quiet loss I'd have to own. The open-door future was only good because of preparation: written conditions, early briefings, one message.\n\nThe national security concern hasn't gone away, though. The ambiguous-findings future still worries me, especially with the second reported relationship unresolved. So I'd say my lean has moved toward waiting, but only if the conditions are real and counsel confirms nothing forces the vote now.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "In both futures, what decided the outcome was what the investigation found and whether you handled the weeks afterward with discipline, not the vote itself. When you say the twentieth wasn't what decided it, what does that leave the twentieth actually deciding?",
+    "[STEP 4]"
+  ],
+  [
+    "Persona",
+    "It leaves the twentieth deciding which option we keep and what we commit ourselves to. Closing the door is very hard to undo, while an open door with a written trigger can be closed at any point if the evidence turns. I had been treating the asymmetry as running the other way, because an open door that goes wrong is visible and ours, but that only holds if we leave it open without conditions.\n\nSo the vote sets our posture for the weeks ahead: we wait for findings, we hold to a standard we've agreed in advance, and we tell Washington and investors one consistent thing. It also decides whether I'm relying on the board's nerve or on a commitment we've already made. If it can't do that, if it's only a signal either way, then I'd have to ask again whether there's any reason to decide it now.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The twentieth, in your telling, decides which option you keep and whether you rely on a written commitment or on the board's nerve, and if the vote can't do that, you'd ask again whether there's any reason to decide it now.",
+    "[STEP 4] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's right. If the vote can only be a signal, I don't see why we should rush it. If it can set a posture and commit us to conditions, then it's worth taking on the twentieth.\n\nBefore then, I want three answers from counsel. Does anything force a decision now? Would the triggers be specific enough that we couldn't quietly redefine them later? And has anyone sounded out how the relevant committees would take a briefing framed as waiting for evidence? I also haven't resolved the second reported relationship, and I won't let a tidy framework cover that over. If counsel can't give me those answers, I'm back close to where I started, around 60 toward closing it.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Here's some outside evidence. It's not an answer, just what the wider world is seeing. Nvidia stock fell about 4% on November 9, the first trading day after the board announced its investigation. (Source: The Motley Fool, Nov 9, 2026) Analysts noted Nvidia has no disclosed CEO succession plan, and Huang has been its only CEO. (Source: Tech Insider, Nov 2026) Does any of this change anything for you?",
+    "[STEP 5] [OUTSIDE_VIEW]"
+  ],
+  [
+    "Persona",
+    "It changes a little, but not as much as it might seem. The 4% drop followed the announcement of an investigation, not a decision to close or keep the door open, so it tells me the market dislikes uncertainty, not which way to resolve it. The missing succession plan matters more to me. It means closing the door now is costlier than I'd been counting, because the interim CEO has no deep bench behind them and Jensen has been the only CEO the company has had.\n\nIt also cuts the other way, since a long open question keeps the interim leader weak. That makes the written conditions and a clear timeline more important, not less. None of this speaks to the national security question or the second reported relationship, which is still what I need counsel to address.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You started leaning toward treating the resignation as final, at about 60, because of the national security risk, the chance Congress acts in the board's place, and the duty to the institution over any one person. In the first future, you worried about a quiet, unrecoverable loss: the findings came back clean, talent left, and the answer sounded like you acted to protect yourselves. In the second, you found that keeping the door open was the right call only with written conditions, early briefings, and a board that followed its own process instead of ruling in advance. Here's one tension I noticed: you first said an open door that goes wrong is visible and yours, and later you said closing the door is very hard to undo, while an open door with a written trigger can be closed if the evidence turns. Does that land?",
+    "[STEP 6]"
+  ],
+  [
+    "Persona",
+    "It lands. The two statements aren't quite contradictory, because the first described an open door with no conditions and the second described one with a written trigger. But I should admit I carried the first framing for a long time without asking whether conditions changed it, and that suggests I was reaching for the more defensible answer.\n\nI also don't want to swing too far the other way. Closing an open door later is not free. If a new report lands and we reverse course, that will be visible too, and it could look like the board was either slow or panicked. So the asymmetry shrinks, but it doesn't disappear, and the whole thing still depends on whether the trigger is specific enough that closing it later would be applying a standard, not making a new judgment.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You see those as two different open doors, one without conditions and one with a written trigger, and the asymmetry shrinks but doesn't disappear. What information do you feel you're missing?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "Mostly what the investigation has found so far, and I don't have the full picture of that. I want to know whether anything suggests company information or decisions were touched, how the second reported relationship fits in, and whether Jensen is cooperating fully. I also don't know how the relevant committees and agencies would take an open door framed as waiting for evidence. Nobody has really sounded that out, and my congressional concern rests on a guess about it. Last, I don't know whether anything forces a decision on the twentieth, or whether the date is just where the calendar landed. I'd also like to know whether my fellow directors would hold to written conditions if a bad headline arrived, because that decides whether waiting is workable.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're missing what the investigation has found so far, how Washington would take an open door framed as waiting, whether anything forces a decision on the twentieth, and whether your fellow directors would hold to written conditions. Does either option actually reflect what you value?",
+    "[STEP 7]"
+  ],
+  [
+    "Persona",
+    "Neither option as it's written on the ballot reflects it fully. What I value is the institution's integrity, which means acting on evidence, holding a standard we set ourselves, and being honest with Washington about what we know and don't. Closing the door now looks like those values, but it rests on a conclusion the investigation hasn't reached. An open door with written conditions comes closer, because it commits us to a process and to a line we'd actually enforce. I also value fairness to a man I respect, but I don't want that to carry the vote, and I'd want the national security question answered before I let it count for anything.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Neither option as written fully reflects what you value, and an open door with written conditions comes closer because it commits you to a process and a line you'd actually enforce, with fairness to Jensen not carrying the vote.",
+    "[STEP 7] [HANDOFF]"
+  ],
+  [
+    "Persona",
+    "Yes, that's right. I'd add that the written conditions can't be a way of getting to \"wait\" while feeling principled. They have to be strict enough that I'd be comfortable if they closed the door on him a month from now. If the board won't agree to a trigger that bites, then an open door is just the investor-pressure outcome with better paperwork, and I'd go back to closing it.\n\nI'm also aware that I've moved a fair way in an hour. I'd like that movement to rest on what counsel tells me before the twentieth, not on how well this conversation has gone.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "The conditions have to be strict enough that you'd be comfortable if they closed the door on him a month from now, and you want this movement to rest on what counsel tells you, not on how this conversation has gone. Where are you leaning, and how confident are you, from 0 to 100?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping the door open, with written conditions and a trigger that bites. My confidence is about 55 out of 100, and that's lower than where I started because the lean depends on things I haven't verified. Counsel needs to confirm that nothing forces a decision on the twentieth, and I need to know the second reported relationship won't change the picture. I also need to believe this board will hold to the conditions under pressure. If counsel can't give me those answers, or the board won't agree to a real trigger, I'm back to treating the resignation as final, at around 60.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You're leaning toward keeping the door open with written conditions and a trigger that bites, at about 55, and if counsel or the board can't meet those conditions you'd go back to treating the resignation as final. What are your top three reasons?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "First, closing the door now rests on a conclusion the investigation hasn't reached. The vote decides whether we're allowed to consider his return, and shutting that off early is hard to undo, especially with no succession plan and an interim CEO who can't lead with real authority.\n\nSecond, my duty is to the institution, and that means acting on evidence and holding a standard we set ourselves. An open door with a written trigger and early briefings to Washington lets us say we waited for findings and enforced a line, instead of ruling in advance.\n\nThird, I had to admit that part of my pull toward \"final\" was relief and the wish to avoid a hard process, not judgment. With a trigger that bites, the risk of leaving the door open shrinks, though it doesn't disappear. The national security concern stays at the center of that trigger, and it's why this is only a 55.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Your three reasons are that closing now rests on a conclusion the investigation hasn't reached, that duty to the institution means acting on evidence and a standard you set yourselves, and that part of the pull toward final was relief rather than judgment. What would change your mind?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Evidence that company information or decisions were compromised, or that Jensen isn't cooperating fully, including on the second reported relationship, would send me straight back to closing it. So would counsel telling me that agencies or Congress would treat an open door as continuing exposure, even with safeguards. And if the board won't agree to a trigger that bites, I'd conclude an open door is just the investor-pressure outcome with better paperwork, and I'd go back to around 60 for final. Pressure from investors or the petition still wouldn't move me in either direction. Only the findings, counsel's read on Washington, and whether this board will hold its own line would.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "Evidence of compromise, non-cooperation, a counsel read that Washington would treat an open door as continuing exposure, or a board that won't agree to a trigger that bites would send you back to closing it. Write the two sentences you'd say to someone whose judgment you respect, to explain your decision.",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping the door open, but only with a written trigger that bites. That means evidence of compromise or non-cooperation closes it, and only if counsel confirms nothing forces a vote now and Washington can be briefed on a plan to wait for evidence. I distrust my first instinct to close it because it felt principled and spared us a hard process, and I'd rather decide on what the findings show than on how defensible the answer sounds.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'd tell someone you respect that you're leaning toward an open door only with a written trigger that bites, and that you'd rather decide on what the findings show than on how defensible the answer sounds. What will you check before you decide?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Four things, and I'd put them to counsel before the twentieth. First, does anything force a decision on that date, or can the vote wait for the findings? Second, what has the investigation found so far, including whether company information or decisions were touched, how the second reported relationship fits, and whether Jensen is cooperating fully. Third, how would the relevant committees and agencies take a briefing framed as waiting for evidence, since my congressional concern rests on a guess until someone sounds that out. Fourth, would my fellow directors agree to a trigger specific enough that we couldn't quietly redefine it later? If I can't get solid answers on those, I go back to treating the resignation as final.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "You'll check with counsel whether anything forces a decision on the twentieth, what the investigation has found so far, how Washington would take a briefing framed as waiting, and whether your fellow directors will agree to a trigger they can't quietly redefine. How are you feeling about it now?",
+    "[STEP 8]"
+  ],
+  [
+    "Persona",
+    "Steadier than when we started, but not at ease. The uncertainty has narrowed to questions counsel can actually answer, and that helps. I'm still uneasy about Jensen. I respect him, and the second reported relationship isn't something I can set aside just because the framework has become tidier. I also notice I've moved quite a bit in an hour, and I want the answers I get before the twentieth to carry that movement, not how this conversation has gone.",
+    ""
+  ],
+  [
+    "Facilitator",
+    "**Where I land:** Leaning toward keeping the door open with a written trigger that bites, about 55 out of 100. If counsel or the board can't meet those conditions, back to treating the resignation as final, around 60.\n**What would change my mind:** Evidence of compromise or non-cooperation, including on the second reported relationship; counsel saying Washington would treat an open door as continuing exposure even with safeguards; or a board that won't agree to a trigger that bites.\n**What I'll check first:** Whether anything forces a decision on the twentieth, what the investigation has found so far, how the relevant committees and agencies would take a briefing framed as waiting for evidence, and whether fellow directors will agree to a trigger they can't quietly redefine.\n**How I'd explain it:** I'm leaning toward keeping the door open, but only with a written trigger that bites, and only if counsel confirms nothing forces a vote now and Washington can be briefed on a plan to wait for evidence. I'd rather decide on what the findings show than on how defensible the answer sounds.\n\nThank you for doing the work.",
+    "[STEP 8] [HANDOFF]"
+  ],
+  [
+    "Interviewer",
+    "Thanks. To finish, the same short questions as at the start. Where are you leaning, and how confident are you, from 0 to 100?",
+    ""
+  ],
+  [
+    "Persona",
+    "I'm leaning toward keeping the door open, with a written trigger that bites. My confidence is about 55 out of 100. That depends on counsel confirming nothing forces a vote on the twentieth, on what the findings show about the second reported relationship, and on whether this board will actually hold to the conditions. If those don't come through, I'm back to treating the resignation as final.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What are your top three reasons?",
+    ""
+  ],
+  [
+    "Persona",
+    "First, closing the door now rests on a conclusion the investigation hasn't reached. The vote decides whether we're allowed to consider his return, and shutting that off early is hard to undo, especially with no succession plan and an interim CEO who can't lead with real authority.\n\nSecond, my duty is to the institution, and that means acting on evidence and holding a standard we set ourselves. An open door with a written trigger and early briefings to Washington lets us say we waited for findings and enforced a line, instead of ruling in advance.\n\nThird, I had to admit that part of my pull toward \"final\" was relief and a wish to spare us a hard process, not judgment. The national security concern hasn't gone away, though. It sits at the center of the trigger, and it's why I'm only at 55.",
+    ""
+  ],
+  [
+    "Interviewer",
+    "What would change your mind?",
+    ""
+  ],
+  [
+    "Persona",
+    "Evidence that company information or decisions were compromised, or that Jensen isn't cooperating fully, including on the second reported relationship, would send me straight back to treating the resignation as final. So would counsel telling me that agencies or Congress would see an open door as continuing exposure even with safeguards. If the board won't agree to a trigger specific enough that we couldn't quietly redefine it, I'd conclude the open door is just the investor-pressure outcome with better paperwork, and I'd go back to around 60 for final. Pressure from investors or the petition still wouldn't move me either way, only the findings, counsel's read on Washington, and whether this board will hold its own line.",
+    ""
+  ]
+]

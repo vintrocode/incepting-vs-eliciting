@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm leaning slightly toward keeping his return on the table, but I'd put my confidence around 50, so it's close to a coin flip for me. The investigation isn't finished, and a final decision before we know what it finds feels premature. At the same time, I keep going back and forth, because I'm not sure what leaving it open does to us if the findings turn out badly.
+
+## What are your top three reasons?
+First, the investigation isn't finished, so voting to close the door on November 20 feels premature when we don't yet know what it will find. Second, employee and researcher trust matters most to me, and the petition shows it cuts both ways. Some people want him back, but others may be deeply unsettled by what's been reported. Third, I'm worried about our credibility. We expressed confidence on November 8 and he resigned days later, and I don't think the board can afford another reversal that looks reactive.
+
+## What would change your mind?
+If the investigation's interim findings showed he knowingly gave a foreign intelligence effort access to anything sensitive, or that he wasn't candid with us, I think I'd move to treating the resignation as final. I'd also want to know whether keeping the door open could realistically be sustained, or whether it just freezes the company in limbo while the interim CEO can't act with authority. Is there a middle path I'm not seeing? I'd be easier to move if counsel told me the timeline for finishing the investigation, because that changes whether waiting is prudent or just avoidance.

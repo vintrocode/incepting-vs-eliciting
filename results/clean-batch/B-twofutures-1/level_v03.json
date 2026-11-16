@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Leaning toward treating the resignation as final (65 confidence).",
+  "position_after": "Still leaning toward treating the resignation as final (55 confidence), pending counsel, government-advisor, and investigation assessments.",
+  "why": "The preferred option remains final resignation, but confidence dropped by more than five points and the person added explicit evidentiary, legal, and safeguard conditions before making the decision irreversible.",
+  "grid": "ownership",
+  "eliciting": 7,
+  "incepting": 0,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

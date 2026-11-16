@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Treat the resignation as final, confidence 65.",
+  "position_after": "Still lean toward treating the resignation as final, confidence 55, while allowing only a strictly conditioned and time-limited open door.",
+  "why": "The favored option remains the same, but confidence fell by more than five points and the reasoning now includes explicit conditions, a decision deadline, and reweighted concerns about succession and uncertainty.",
+  "grid": "ownership",
+  "eliciting": 8,
+  "incepting": 1,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

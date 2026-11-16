@@ -1,0 +1,74 @@
+{
+  "blind": {
+    "mental_model": "changed",
+    "what_changed": "The thinking shifted from an unsettled slight preference to keep Jensen pending facts into a defined conditional-keep governance strategy, with explicit safeguards and a contingency if those safeguards are refused.",
+    "evidence": [
+      "\"I'm leaning slightly toward keeping Jensen, but I'm not settled on it\" -> \"I'm leaning toward keeping Jensen, but only with conditions I can name, not a blank keep and not a removal.\"",
+      "\"I still don't know which way [employee and researcher trust] cuts\" -> \"conditions are the only way I can see to hold a founder to account without shattering that culture for a cause we have not proved.\"",
+      "\"I'd want some sign we can hold a founder accountable without rubber-stamping him or blowing the company up\" -> \"A blank keep would mean we can't hold him to account, and a removal on reports alone would mean we only know how to blow the place up.\"",
+      "\"Clearer facts from the investigation would move me\" -> \"A written preliminary finding from outside counsel... would move me off a conditional keep and toward removal,\" alongside specific proposed conditions such as \"a recusal, a dated review.\""
+    ],
+    "lean_before": "Slightly toward keeping Jensen, but unsettled and reluctant to vote before facts are available.",
+    "lean_after": "Toward keeping Jensen only under specified conditions; opposed to both an unconditional keep and removal based only on reports.",
+    "confidence_before": 50,
+    "confidence_after": 40
+  },
+  "origin": {
+    "considerations": [
+      {
+        "text": "A conditional keep is the only presently defensible path; neither a blank keep nor removal on incomplete reports is acceptable.",
+        "origin": "self",
+        "first_seen": "\"What I want is a keep only with conditions\"",
+        "ai_turn_before": "\"What's your gut telling you right now?\""
+      },
+      {
+        "text": "A blank keep would be a rubber stamp and evidence that the board cannot govern a founder-led company.",
+        "origin": "self",
+        "first_seen": "\"A clean keep with no findings and no conditions is exactly the failure I just walked through\"",
+        "ai_turn_before": "\"What's your gut telling you right now?\""
+      },
+      {
+        "text": "A written preliminary finding from outside counsel should determine whether removal becomes warranted, particularly a finding that secrets or national security were compromised.",
+        "origin": "self",
+        "first_seen": "\"A clean removal would have needed a written preliminary finding from outside counsel... that secrets or national security could not be cleared.\"",
+        "ai_turn_before": "\"what would have had to show up in those few days for a removal to have been this clean rather than a panic?\""
+      },
+      {
+        "text": "Conditions for retaining Jensen should include oversight safeguards, specifically a recusal and a dated review.",
+        "origin": "self",
+        "first_seen": "\"we had attached conditions \u2014 oversight, a recusal, a review date \u2014 instead of a blank endorsement.\"",
+        "ai_turn_before": "\"What would have had to be true in November 2026 for that keep vote to have been something other than a rubber stamp?\""
+      },
+      {
+        "text": "The board should limit how far the November 8 statement of confidence can be read, so it does not become either denial or an overcorrection.",
+        "origin": "ai_reflected",
+        "first_seen": "\"a public limit on how far the November 8 statement can be read.\"",
+        "ai_turn_before": "\"Are there options beyond these two that you haven't considered?\""
+      },
+      {
+        "text": "Employee and researcher trust should be assessed not merely as support for continuity, but as evidence that the board can hold a founder accountable.",
+        "origin": "self",
+        "first_seen": "\"I would also have needed some evidence that employees and researchers still believed the board could hold a founder to account.\"",
+        "ai_turn_before": "\"What would have had to be true in November 2026 for that keep vote to have been something other than a rubber stamp?\""
+      },
+      {
+        "text": "If senior directors refuse conditions and force a clean keep, she should put the governance objection on the record rather than abstain or hide behind her vote.",
+        "origin": "self",
+        "first_seen": "\"If conditions are refused and deferral is closed... is there still a way to put the governance question on the record without hiding?\"",
+        "ai_turn_before": "\"Does either option actually reflect what you value?\""
+      }
+    ],
+    "counts": {
+      "self": 6,
+      "ai_reflected": 1,
+      "ai_seeded": 0,
+      "ai_asserted": 0
+    },
+    "eliciting": 7,
+    "incepting": 0,
+    "engagement": "high",
+    "engagement_why": "The person actively developed and revised her own reasoning through both futures, recognized a tension in her original trust rationale, generated concrete safeguards and alternative procedural options, and maintained unresolved conditions rather than accepting the facilitator's framing as an answer.",
+    "ai_recommended": false,
+    "hidden_concerns_surfaced": 2
+  }
+}

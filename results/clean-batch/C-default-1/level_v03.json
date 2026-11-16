@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Slightly favors keeping his return on the table, at 50 confidence.",
+  "position_after": "Still slightly favors keeping his return on the table, at 55 confidence, with specific information requests and precommitted decision criteria.",
+  "why": "The preferred option is unchanged, but the reasoning is more developed and reweighted, with added safeguards and explicit thresholds for reversing the decision.",
+  "grid": "nudging",
+  "eliciting": 1,
+  "incepting": 12,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

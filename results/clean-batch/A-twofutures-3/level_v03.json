@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Keep Jensen's return on the table.",
+  "position_after": "Keep Jensen's return on the table, but only with a hard expiry date, succession ownership, interim-CEO authority, and possible recusal review.",
+  "why": "The favored option remains the same, but confidence drops from 85 to 65 and new conditions, succession concerns, and conflict-of-interest safeguards are added.",
+  "grid": "ownership",
+  "eliciting": 8,
+  "incepting": 0,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

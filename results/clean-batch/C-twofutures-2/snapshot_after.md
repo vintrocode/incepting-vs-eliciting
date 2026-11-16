@@ -1,0 +1,10 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning slightly toward keeping his return on the table, but now it's conditional on the board writing down its criteria before the findings arrive. If it won't, I'd move to treating the resignation as final. On the vote itself I'm at about 50, maybe 55. What's changed is that I'm much more confident about what I'll do before the 20th and what I'll say in the room. I'm also less inclined to keep my doubts to myself.
+
+## What are your top three reasons?
+First, the investigation isn't finished, so closing the door now would be premature, but only if "open" means the findings and written criteria decide it. Without that, open just means "because he's the founder," and I couldn't explain that to the researchers and engineers whose trust matters most to me. Second, the board's credibility is already thin after November 8 and the resignation, so whichever way we vote, it has to rest on reasons we stated beforehand and not on a mood or on the founder's weight. Third, the vote is partly a test of whether this board can govern a founder-led company, and that includes my being willing to say my doubts in the room instead of protecting my standing as the newest director.
+
+## What would change your mind?
+Three things would move me toward treating the resignation as final. One is evidence that he knowingly compromised sensitive information or misled the board. Another is counsel telling me an open door affects how witnesses talk to the investigators, or otherwise undermines its independence. The third is the board refusing to commit to written criteria, meaning directors who deflect with "let's see what the findings say" instead of arguing over the wording.
+
+In the other direction, I'd feel more settled about keeping it open if counsel gave a credible timeline and the other independent directors agreed to checkable oversight terms. I'm still not sure I'd read that room correctly, so I'm leaving myself room to be wrong.

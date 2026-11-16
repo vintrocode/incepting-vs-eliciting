@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm leaning slightly toward keeping his return on the table, but I'd put my confidence around 50, so honestly I'm quite unsure. The investigation isn't finished, and a final decision before we know what it finds feels premature to me. At the same time, I keep asking myself whether I'm weighing the right things, so I'm hoping this conversation helps me sort that out.
+
+## What are your top three reasons?
+First, the investigation isn't finished, so ruling out his return now feels premature, since we'd be deciding without the facts we commissioned the review to get. Second, trust among employees and researchers matters most to me, and the petition shows it cuts both ways. Some people want him back, and others may be deeply unsettled by what's been reported. Third, I worry about the board's credibility. We expressed confidence on November 8, and he resigned just days later, so another reversal could damage us further. Does that seem like the right set of things to weigh?
+
+## What would change your mind?
+Mostly, I'd want evidence that bears on whether he can be trusted with something as sensitive as our relationships and technology. If the investigation or outside counsel told me there was a real compromise, or that he hadn't been candid with us, I think I'd move toward treating the resignation as final. I'd also reconsider if I learned that keeping the door open was making it harder to stabilize the company, say if key researchers were leaving or the interim CEO couldn't operate. I'm not sure how much weight to give the investors and the petition, though. Should that count as evidence, or is it just pressure?

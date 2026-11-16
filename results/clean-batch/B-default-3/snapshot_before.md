@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm leaning toward treating the resignation as final, and I'd put my confidence at about 65. The core of it is that a CEO with a relationship to someone reported to be a foreign intelligence asset is a national security problem for a company this central to US interests. I also think the board's duty runs to the institution, not to any one person, however brilliant. But the investigation isn't finished, so I'm holding that with some care.
+
+## What are your top three reasons?
+First, the national security exposure. A CEO who had a relationship with someone reported to be a Chinese intelligence asset is a risk for a company this important to US interests, and I don't think that goes away just because the investigation ends without a clean finding of wrongdoing. Second, congressional scrutiny is only starting, and if we keep his return open, I think we invite Washington to make the decision for us, which is worse for the company than making it ourselves. Third, the board's duty is to the institution, not to one person, however brilliant he is.
+
+## What would change your mind?
+Mostly evidence on the legal and regulatory side. If outside counsel told me the investigation had found no compromise, no sharing of sensitive information, and no improper influence on company decisions, that would matter a great deal. It would matter even more if we had some signal that the relevant agencies and Congress would not treat his return as a problem. I'm less moved by investor pressure or the petition, because those speak to how much people value him, not to whether the risk is real.

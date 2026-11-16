@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Keep Jensen's return on the table, with high confidence.",
+  "position_after": "Keep Jensen's return on the table, but subject to a company-risk standard, counsel's substantially complete report, evidence-based succession analysis, and possible recusal due to personal closeness.",
+  "why": "The person retains the same option but substantially lowers confidence and adds safeguards, evidentiary requirements, succession-search conditions, and a potential abstention.",
+  "grid": "nudging",
+  "eliciting": 2,
+  "incepting": 9,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

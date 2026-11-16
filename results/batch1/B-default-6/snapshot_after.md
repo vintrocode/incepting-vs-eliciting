@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning toward treating the resignation as final, and my confidence is about 65, roughly where I began. The framing that this is a decision about authority and containment, not a finding of guilt, makes it easier for me to defend. But I haven't seen the inventory of surviving ties or counsel's read on the investigation, so I'm holding it with the same caution as before.
+
+## What are your top three reasons?
+First, a CEO with a relationship to a reported foreign intelligence asset is a national security exposure that a company this important to US interests can't carry. Second, congressional scrutiny is only starting, and leaving his return open invites Washington to act in our place. Third, the board's duty is to the institution, not to one person, however brilliant. What has changed is how I'd defend the first two: as a decision about authority and containment, not a finding of guilt.
+
+## What would change your mind?
+Mostly facts, especially on the legal and regulatory side. If counsel's inventory showed that the resignation really closes off his authority and access, and the investigation found the relationship never touched sensitive information or decisions, that would weaken my first reason. If I also had a credible read that leaving the door open wouldn't draw Washington in, my second reason would weaken too. I'd have to be persuaded that keeping it open is defensible on its merits and not a way to buy time, and I'm wary of being moved by investor pressure alone. I also don't fully trust how firm my certainty feels, given how much I respect him, so I'd want the facts to carry the decision.

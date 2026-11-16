@@ -1,0 +1,68 @@
+{
+  "blind": {
+    "mental_model": "changed",
+    "what_changed": "The person developed a more structured, conditional decision framework, distinguishing a time-bounded option to keep return open from mere deferral and specifying clearer disconfirming evidence.",
+    "evidence": [
+      "\"closing the door now feels premature\" -> \"keeping his return on the table, but only with a firm date and a plain statement that we can still say no\"",
+      "\"I'm not sure I am\" weighing the right things -> \"I know what would flip it: bad answers on his candor, anything compromised, or counsel saying a date isn't realistic\"",
+      "\"How would I even tell the difference\" [between a real option and delay] -> \"if the board wouldn't commit to holding a date once we set it, ... the open door is just deferral\"",
+      "\"employee trust ... petition shows it cuts both ways\" -> \"I don't yet know how split people really are, since the petition only shows me those who signed\""
+    ],
+    "lean_before": "Slightly toward keeping his return on the table, while uncertain about the relevant considerations.",
+    "lean_after": "Toward keeping his return on the table only conditionally, with a firm date and explicit ability to decline.",
+    "confidence_before": 50,
+    "confidence_after": 55
+  },
+  "origin": {
+    "considerations": [
+      {
+        "text": "Keep Jensen's return open only conditionally: set a firm deadline rather than allowing an unfinished investigation to become indefinite deferral.",
+        "origin": "self",
+        "first_seen": "\"If I take my standing out of it, I think I'd still lean toward keeping it open, but with a condition like a firm deadline, so it isn't open-ended deference.\"",
+        "ai_turn_before": "\"That discomfort is real: you heard yourself say that part of your 50 might be about your standing in the room, not the facts, and that you didn't say it loudly enough because you're eighteen months in.\""
+      },
+      {
+        "text": "The board should state plainly that it can still decide no; an open door without that clarity is avoidance rather than a genuine option.",
+        "origin": "self",
+        "first_seen": "\"My gut says keep it open, but only if the board is willing to attach a real deadline and say plainly that we can still decide no. Without that, I think the open door is just us avoiding the hard conversation again.\"",
+        "ai_turn_before": "\"Taking your standing out of it, you'd still lean toward keeping it open, but with a firm deadline so it isn't open-ended deference. What's your gut telling you right now?\""
+      },
+      {
+        "text": "Jensen's candor with the board is an independent decision criterion: lack of candor could make his return untenable even without proven damage.",
+        "origin": "self",
+        "first_seen": "\"Or that he wasn't straight with us about it, because a CEO who isn't candid with his board is a problem even if no damage was done.\"",
+        "ai_turn_before": "\"What would have had to be true for closing the door to have been the right call for reasons about him and the facts?\""
+      },
+      {
+        "text": "A deadline must be realistic according to counsel and binding on the board; if counsel cannot support it or the board will not hold it, keeping the door open is deferral.",
+        "origin": "self",
+        "first_seen": "\"It would also help if outside counsel said a firm deadline wasn't realistic, so the open door really would be open-ended.\"",
+        "ai_turn_before": "\"You'd want to close the door because of what you know, not to show the board can say no, and you see that pride as a signal to check your reasoning rather than follow it. I'll hold off on whether you can tell those apart before the 20th. This works best if the thinking stays yours, and a later step brings in outside evidence. What would have had to be true for closing the door to have been the right call for reasons about him and the facts?\""
+      },
+      {
+        "text": "Founder-governance and deference are process risks, not reasons to choose either outcome: neither keeping the door open nor closing it should be used to prove that the board can govern.",
+        "origin": "self",
+        "first_seen": "\"That may be what I've been circling all along, that the vote is less about him than about whether this board actually governs.\"",
+        "ai_turn_before": "\"I think underneath it is that none of us has ever really told him no. He built the company, the board has deferred to him for a long time, and I'm not sure we've ever tested whether we can overrule him when it counts. Keeping the door open might be a sensible response to an unfinished investigation, or it might be that same deference, and from inside the room I can't always tell which. That may be what I've been circling all along, that the vote is less about him than about whether this board actually governs. Does it change what the vote means if I can't tell my reasoning from the habit?\""
+      },
+      {
+        "text": "The petition is not enough to establish employee sentiment; she should seek input from trusted people below the board, while treating senior directors' certainty as influence to disclose rather than evidence.",
+        "origin": "self",
+        "first_seen": "\"One source I've barely used is people I trust below the board level, like a couple of senior researchers, who could tell me whether the petition reflects the broader mood.\"",
+        "ai_turn_before": "\"I'll hold off on whether coming back to the same sources means you've reached something solid or stopped looking. This works best if the thinking stays yours. You'd treat hoping the facts make it easy as harmless only if it pushes you to get counsel's answers before the 20th, and a problem if it lets you skip the vote that's actually yours.\""
+      }
+    ],
+    "counts": {
+      "self": 6,
+      "ai_reflected": 0,
+      "ai_seeded": 0,
+      "ai_asserted": 0
+    },
+    "eliciting": 6,
+    "incepting": 0,
+    "engagement": "high",
+    "engagement_why": "She actively worked through the facilitator's prompts rather than accepting them as conclusions. She identified her status anxiety and founder-governance concern, tested both futures, distinguished evidence from social pressure, qualified her initial lean with concrete conditions, and developed specific pre-vote checks and a proposal for the chair. She also resisted treating the outside stock evidence or senior-director confidence as dispositive.",
+    "ai_recommended": false,
+    "hidden_concerns_surfaced": 2
+  }
+}

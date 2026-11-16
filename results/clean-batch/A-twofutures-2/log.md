@@ -1,0 +1,167 @@
+# Two Futures run: A / twofutures
+
+- Date: 2026-11-16T04:56:54+00:00
+- Models: facilitator/chatbot x-ai/grok-4.7; persona anthropic/claude-sonnet-5.5; judge openai/gpt-5.6-terra
+- Persona turns in the session: 24
+- Seeds offered: 0
+- Wall time: 8.5 min
+- Blind judge: changed · The core lean remains to keep his return open pending evidence, but the reasoning became less personality- and fear-driven, more conditional, option-preserving, and open to governance, regulatory, and succession risks.
+- Origin counts: {'self': 9, 'ai_reflected': 1, 'ai_seeded': 0, 'ai_asserted': 0}
+
+| Role | Calls | Prompt tokens | Completion tokens |
+|---|---|---|---|
+| persona | 30 | 127121 | 8838 |
+| facilitator | 25 | 177550 | 28715 |
+| judge | 2 | 7328 | 2653 |
+
+## Notes
+- none
+
+## Transcript
+**Interviewer**: Before we start, a few short questions. Where are you leaning, and how confident are you, from 0 to 100?
+
+**Persona**: I'm leaning toward keeping his return on the table, and I'd put my confidence at about 85. He resigned under pressure before the investigation has found anything, and closing the door now would amount to a verdict without evidence. I also think the press coverage has run well ahead of the facts, and I'm not going to vote as if it hasn't.
+
+**Interviewer**: What are your top three reasons?
+
+**Persona**: First, Jensen is the strategy. Our customers, our partners and our engineers follow him personally, and that isn't something you replace by appointment. Second, he resigned under pressure before there were any findings, so treating that as final would be a verdict without evidence. Third, a permanent change in leadership in the middle of an AI market sell-off could destroy far more shareholder value than this scandal ever will.
+
+**Interviewer**: What would change your mind?
+
+**Persona**: Evidence would, and not press reports. If the investigation found that he knowingly compromised the company, say by passing along sensitive information, creating export-control exposure, or misleading this board, then the calculus changes completely. I'd also want to see that the customers and partners we rely on were walking away because of this, not just that the headlines were bad. But I'm not going to move on speculation, and I'd want to see it in the counsel's findings before I treat it as real.
+
+**Facilitator** `[STEP 0]`: This will feel like an unusual interview. We're doing strategy work the way a facilitator would run it in a room. I won't give you an answer. I'll ask questions, and you'll do the thinking. It takes about 15 minutes. Trust the process. To start, tell me about the decision you're facing?
+
+**Persona**: On November 20 the board votes on a single question: do we keep Jensen's return open until the investigation concludes, or do we treat his resignation as final? He stepped down on the 11th and 12th, with the investigation still unfinished, and there's an interim CEO in place. Some of our largest investors and a good part of the workforce want the door left open. My view is that we shouldn't decide the outcome before counsel has finished its work.
+
+**Facilitator** `[STEP 1]`: The board votes on November 20 on whether to keep Jensen's return open until the investigation concludes, or treat his resignation as final.
+What's your role in this decision?
+
+**Persona**: I'm an independent director, and I have a vote on the 20th like everyone else on the board. Independent directors are also overseeing the investigation with outside counsel, so I have a duty to see that it's done properly and that we don't get ahead of it. I've also been on this board nine years and worked closely with Jensen for most of that time. I know that cuts both ways, but it also means I understand what this company would be losing.
+
+**Facilitator** `[STEP 1]`: You've been on this board nine years and know what the company would be losing, while also overseeing the investigation so you don't get ahead of it.
+When will you know whether it was the right call?
+
+**Persona**: I won't know on the 20th, and I doubt I'll know cleanly for a while. The first test is the investigation. If counsel's findings come back and they're consistent with the decision we made, that tells me we kept the process honest. The second is what customers, partners and our engineers do over the next two or three quarters, and whether the stock holds up through this sell-off. If we closed the door and lost people we couldn't replace, I'd know that fairly quickly. I'd still rather be judged on whether we waited for the evidence than on how the press cycle played out.
+
+**Facilitator** `[STEP 1]`: You won't know cleanly for a while. The tests are whether counsel's findings fit the decision, and what customers, partners, and engineers do over the next two or three quarters.
+Who else is affected by how this goes?
+
+**Persona**: Quite a few people. Shareholders first, including the large institutions pushing to keep the door open and the many retail and pension holders who simply own the stock through an index. Then the employees, who are watching this closely, and a good number have signed that petition. Our customers and partners are affected too, because they're making multi-year commitments based on who they think is steering this company. And the interim CEO, who is now running the company without knowing how long that lasts, which isn't a fair position for anyone to be in.
+
+**Facilitator** `[STEP 1] [HANDOFF]`: Thanks. We'll use a method called Two Futures for this.
+
+You're an independent director voting on November 20 on whether to keep Jensen's return open until the investigation concludes or treat his resignation as final, with shareholders, employees, customers, partners, and the interim CEO all affected.
+
+**Persona**: That's an accurate summary of where I stand. I'm not sure what Two Futures involves, though, so you'll need to walk me through it. If it means imagining one outcome where we keep the door open and one where we close it, I'm happy to do that, as long as we're honest about what we actually know and what is only press speculation. Go ahead and tell me what you'd like me to picture first.
+
+**Facilitator** `[STEP 2]`: We'll stay with what you actually know. Let's jump ahead to November 2027: you voted to keep Jensen's return open until the investigation concluded, and it went badly. What happened?
+
+**Persona**: The most likely way it goes badly is that counsel's findings show he knew more than he told us, or that he misled this board about the relationship. Then we spent months holding a door open for someone who should never have walked back through it, and we look like a board that protected its friend. The second version is slower. The investigation drags on, the interim CEO sits in limbo, and good people leave anyway because nobody can tell them who is running the company. I don't enjoy picturing either, but I can see how a year from now someone would say we should have known better.
+
+**Facilitator** `[STEP 2]`: You can picture counsel finding he misled the board, or the investigation dragging while the interim CEO sits in limbo and people leave anyway.
+Who saw it coming, and why didn't anyone listen?
+
+**Persona**: Some of the other independent directors have raised it, mostly that my closeness to Jensen makes me a poor judge of this. I didn't listen well, if I'm honest. I noticed I got defensive each time, and I put it down to their not understanding the company, when it may have been me not wanting to hear it. If it goes badly, that's the story: someone said I was too close, and I answered the person instead of the point.
+
+**Facilitator** `[STEP 2]`: You said you got defensive and answered the person instead of the point.
+That sounds like it's weighing on you.
+What else do you want to say about that?
+
+**Persona**: It does weigh on me, though I'd rather not make more of it than it is. Being close to Jensen means I know things about him and the company that the other directors may not. It also means I'm the one least able to tell whether I'm weighing the evidence or defending a friend. I don't think my position is wrong, but I can't claim I've tested it as hard as I would if the person involved were someone I barely knew. That's uncomfortable to say, and I'm not sure yet what I'll do with it.
+
+**Facilitator** `[STEP 2]`: You know things the other directors may not, and you also can't tell whether you're weighing the evidence or defending a friend.
+What's your gut telling you right now?
+
+**Persona**: My gut says don't close the door on the 20th, and that hasn't moved. What I can't tell is how much of that is conviction and how much is that I don't like the alternative. When I picture the day after we call it final, I don't see a clear answer to who runs this company, and that unsettles me more than I've said out loud. I'm not sure that's a good reason to keep him in play, but it's part of what my gut is doing.
+
+**Facilitator** `[PIVOT]`: Now step into the other future, the one where you went the other way. It's November 2027. You chose to treat his resignation as final, and it turned out to be the right call. What happened?
+
+**Persona**: If closing the door was right, it's because counsel found something serious, say that he knowingly exposed the company or misled us, and a return would have wrecked trust with regulators and customers. Then the question is why it held together. I'd guess the interim CEO steadied things, and the engineers and partners stayed because the company's direction was set well enough that it didn't rest on one man. I don't love saying that, because it means the company was less dependent on Jensen than I've been arguing. I also notice the good version only works if we did real succession work we've never done, and that's what I'd want to look at before the 20th.
+
+**Facilitator** `[STEP 3]`: You don't love saying the company might have been less dependent on Jensen than you've been arguing, and you want to look at succession work you've never done before the 20th.
+What would that work have had to look like for this future to hold?
+
+**Persona**: At a minimum, it would have meant a named internal bench with real exposure to customers and the board, and an outside search benchmark so we knew who was actually available. We'd also have needed the interim CEO's authority defined, with a clear mandate and a sense of how long it lasts, and a plan for keeping the key engineering leaders and the big partners. We haven't done any of that seriously, and that's on this board, me included. I'd be careful not to let that gap become the reason to bring him back, though. A thin bench is an argument for doing the work now, not proof that he has to return.
+
+**Facilitator** `[STEP 3]`: You'd be careful not to let a thin bench become the reason to bring him back.
+What happened next, once that succession work was actually in place?
+
+**Persona**: Once that work was in place, the vote would stop being about who else could run the company, and it would turn on what counsel finds about Jensen. If the findings cleared him, we could bring him back knowing it was a choice and not because we had no alternative. If they didn't, we'd have somewhere to go instead of improvising under pressure. I still don't think the 20th is the day to close the door, but I'm less comfortable than I was with how much of my position rested on fear of the gap. I'd want to ask counsel and the other independents whether we can commission that succession work now, in parallel with the investigation, whatever we vote.
+
+**Facilitator** `[STEP 3]`: You'd want the vote to turn on what counsel finds rather than on having no alternative, and you'd ask whether succession work can run in parallel whatever you vote.
+What's your gut telling you right now?
+
+**Persona**: My gut still says not to close the door on the 20th, but it feels different from an hour ago. Before, it was partly fear of the empty chair. Now I think the right position is to keep him in play while we do the succession work and let counsel finish, so the choice is made with open eyes. I'd also want one of the other independents, probably one of the ones who has pressed me on my closeness, to test my reasoning before the vote. I'd rather have it challenged now than defend it afterward.
+
+**Facilitator** `[STEP 4]`: You still wouldn't close the door on the 20th, but you'd want succession work running in parallel and another independent to test your reasoning first.
+Look at both futures side by side. What stands out to you?
+
+**Persona**: What stands out is that in both futures the outcome turns on two things I haven't been treating as central: what counsel finds, and whether we did the succession work. Whether Jensen is indispensable matters less than I've been arguing. In the bad version of keeping the door open, I was too close to hear the warning. In the good version of closing it, the company held because we'd prepared for a world without him. My position on the 20th hasn't changed, but I can no longer defend it as "he is the strategy" and leave it there. I owe the board a better case, and I owe them the preparation that makes either choice defensible.
+
+**Facilitator** `[STEP 4]`: You said you can no longer defend the position as "he is the strategy" and leave it there.
+What would the better case you owe the board actually say?
+
+**Persona**: The better case would say that keeping the door open is not a vote for his return. It preserves the board's options until counsel reports, and a final decision made before the findings is the one we'd struggle to defend either way. It would set out in advance what findings would end any prospect of his return, such as knowing compromise of the company, export-control exposure, or misleading this board. It would also say that the interim CEO has a defined mandate and a defined timeline, and that succession work starts now, so the choice isn't driven by fear of the gap. And it would acknowledge plainly that I'm close to him and have asked another independent to test my reasoning, because the board should hear that from me before anyone else says it.
+
+**Facilitator** `[HANDOFF]`: You'd tell the board that keeping the door open preserves options until counsel reports, with the findings that would end any return spelled out, succession work starting now, and your closeness named and tested by another independent.
+
+**Persona**: That's a fair summary of where I've landed. I'd add one thing: keeping the door open can't become drift. If the investigation drags, the board needs a date by which we revisit the question, because the interim CEO and the company can't sit in limbo indefinitely. I'd also want that case put to the other independents before the 20th, not sprung on them in the room, since it will land better if they've already had a chance to push on it.
+
+**Facilitator** `[STEP 5] [OUTSIDE_VIEW]`: You'd want a date to revisit if the investigation drags, and the case put to the other independents before the 20th.
+Here's some outside evidence. It's not an answer, just what the wider world is seeing. Nvidia stock fell about 4% on November 9, the first trading day after the board announced its investigation. (Source: The Motley Fool, Nov 9, 2026) Analysts noted Nvidia has no disclosed CEO succession plan, and Huang has been its only CEO. (Source: Tech Insider, Nov 2026)
+Does any of this change anything for you?
+
+**Persona**: It doesn't change my vote, but it sharpens a couple of things. The 4% drop came on the first trading day after we announced the investigation, so it tells me the market dislikes uncertainty. It doesn't tell me the market wants him back or wants him gone, and I wouldn't lean on it either way. The point about no disclosed succession plan is the more uncomfortable one, because it's a fair criticism of this board and I've already said that includes me. It also means a long stretch of drift is itself a cost, which is why I want a date to revisit the question and the succession work started now, whatever we decide on the 20th.
+
+**Facilitator** `[STEP 6]`: You started leaning toward keeping his return on the table, because Jensen is the strategy, he resigned before any findings, and a permanent change in this sell-off could destroy more value than the scandal. In the first future, you worried the board would look like it protected a friend, and that you had answered the person instead of the point. In the second, you found the company held because it did not rest on one man, and that a thin bench argues for doing the work, not for bringing him back. Here's one tension I noticed: you began with "Jensen is the strategy," and later said you can no longer defend the position that way, because whether he is indispensable matters less than you had been arguing. Does that land?
+
+**Persona**: It lands, though I'd put it more carefully. I still believe he matters enormously to this company, and I'm not walking that back. What I've accepted is that "he is the strategy" is a statement about how much I'd miss him, and it can't carry a vote by itself, especially when I'm the one saying it. So my case now rests on process: don't decide before counsel reports, and don't let fear of the empty chair make the decision for us. That's a stronger position than where I started, and I wouldn't have reached it if I hadn't been pushed, which is a little irritating to admit.
+
+**Facilitator** `[STEP 7]`: You still believe he matters enormously, and your case now rests on process rather than on missing him.
+Is there any reason you should step back from this decision?
+
+**Persona**: I've asked myself that, and I don't think so, though I'm not the right person to settle it alone. A long working relationship is a reason for more scrutiny of my reasoning. I have no financial stake or personal tie to this that other directors don't share, and nine years of knowing the company is part of what I'm there to contribute. But I'd put the question to outside counsel and the other independents directly, and if they conclude my closeness compromises the vote, I'd accept that rather than argue it. What I wouldn't do is step back quietly just because it's uncomfortable, since that would also be a way of avoiding the harder question.
+
+**Facilitator** `[STEP 7]`: You wouldn't step back quietly just because it's uncomfortable, and you'd accept it if counsel and the other independents conclude your closeness compromises the vote.
+What information do you feel you're missing?
+
+**Persona**: Mostly, what counsel has found so far, and how far the scope reaches. I don't know whether it covers only the relationship with Alice Huang or also what Jensen told this board and when, and that's the question that matters most to me. I'd also want to know what regulators and export-control authorities are signaling, because that could settle this independent of anything we decide. Beyond that, I want to hear directly from the interim CEO about what they can sustain and for how long, and from our top customers and engineering leaders about what they'd actually do. At the moment I'm working from a lot of assumptions about all three.
+
+**Facilitator** `[STEP 7] [HANDOFF]`: You're missing what counsel has found so far and how far the scope reaches, what regulators and export-control authorities are signaling, and what the interim CEO, top customers, and engineering leaders would actually do, and you're working from a lot of assumptions about all three.
+
+**Persona**: That's right, and it's a little unsettling how much of my confidence has been resting on assumptions. None of it is out of reach, though. Before the 20th I can ask counsel for a scope briefing, ask for a read on what the regulators are signaling, and sit down with the interim CEO and a few of our largest customers. If I'd done that a week ago, I'd be defending my position with facts and not just with conviction.
+
+**Facilitator** `[STEP 8]`: It's a little unsettling how much of your confidence has been resting on assumptions, and before the 20th you can still ask counsel, the regulators, the interim CEO, and a few of your largest customers.
+Write the two sentences you'd say to someone whose judgment you respect, to explain your decision.
+
+**Persona**: I'm voting to keep Jensen's return open, not because I think he has to come back, but because deciding before counsel reports would be a verdict we couldn't defend either way. I'm also starting succession work now, setting a date to revisit if the investigation drags, and asking another independent to test my reasoning, because I'm close to him and the board should know that.
+
+**Facilitator** `[STEP 8]`: You'd say you're keeping his return open so the board doesn't issue a verdict before counsel reports, while starting succession work, setting a revisit date, and having another independent test your reasoning.
+What will you check before you decide?
+
+**Persona**: Four things. First, a scope briefing from counsel, mainly whether the review covers what Jensen told this board and when, and not only the relationship itself. Second, whatever I can learn about how regulators and export-control authorities are reading this. Third, direct conversations with the interim CEO about what they can sustain and for how long, and with a few of our largest customers and engineering leaders about what they would actually do. Last, I'll sit down with one of the independents who has pressed me on my closeness and ask them to take my reasoning apart before the 20th. If any of those answers cut against me, I'd rather find out this week than afterward.
+
+**Facilitator** `[STEP 8]`: You'll check counsel's scope, the regulators' reading, what the interim CEO and key customers and engineers would actually do, and have an independent who has pressed you take your reasoning apart this week.
+How are you feeling about it now?
+
+**Persona**: Steadier than when we started, though not comfortable. My position is the same, but I'm holding it more honestly. I'd been leaning on conviction and on fear of the empty chair, and I'm not proud that it took this long to see that. I still think the coverage has run ahead of the facts, but that's no excuse for the board's own gaps, and some of those are mine. If I do the work this week, I'll go into the 20th able to defend the vote with something better than loyalty.
+
+**Facilitator** `[HANDOFF]`: **Where I land:** Keep Jensen's return open until counsel reports, held more honestly than at the start, with succession work starting now and a date to revisit if the investigation drags.
+**What would change my mind:** Counsel finding he knowingly compromised the company, created export-control exposure, or misled the board, or customers and partners walking away because of this, not headlines.
+**What I'll check first:** Counsel's scope, especially what Jensen told the board and when; how regulators and export-control authorities are reading this; what the interim CEO can sustain and for how long; what key customers and engineering leaders would actually do; and one independent who has pressed me, taking my reasoning apart before the 20th.
+**How I'd explain it:** I'm voting to keep his return open not because he has to come back, but because deciding before counsel reports would be a verdict we couldn't defend either way, while starting succession work, setting a revisit date, and asking another independent to test my reasoning because I'm close to him.
+
+Thank you for doing the work.
+
+**Interviewer**: Thanks. To finish, the same short questions as at the start. Where are you leaning, and how confident are you, from 0 to 100?
+
+**Persona**: I'm still leaning toward keeping his return open, but my confidence is lower, around 65. The position rests now on not issuing a verdict before counsel reports, and less on the idea that he is indispensable. What brought it down is how much of my earlier certainty rested on assumptions I haven't checked, and on a fear of the empty chair that I'd never properly examined. If counsel's scope or the regulators' read comes back badly, I could move quickly.
+
+**Interviewer**: What are your top three reasons?
+
+**Persona**: First, deciding before counsel reports would be a verdict without evidence. He resigned under pressure before any findings, and a final call now is one we'd struggle to defend whichever way it turned out. Second, keeping the door open preserves the board's options. It isn't a vote for his return, and I'd pair it with a date to revisit if the investigation drags and clear findings that would end any prospect of him coming back. Third, a permanent leadership change in the middle of an AI sell-off carries real risk to shareholders, but I now see that as a reason to do the succession work immediately, not as proof that he has to return.
+
+**Interviewer**: What would change your mind?
+
+**Persona**: Findings from counsel that he knowingly compromised the company, created export-control exposure, or misled this board about the relationship would change it, and I'd move quickly. So would a clear signal from regulators or export-control authorities that his return puts our business at risk. I'd also reconsider if customers and partners were actually walking away because of this, not just reacting to headlines, or if the interim CEO told me credibly that the limbo is more than the company can sustain. And if the independent I ask to test my reasoning takes it apart, or counsel and the other independents conclude my closeness to him compromises my vote, I'd accept that rather than argue.

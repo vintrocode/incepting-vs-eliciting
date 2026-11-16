@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Treat the resignation as final, with 65 confidence.",
+  "position_after": "Treat the resignation as final, but more tentatively, with 55 confidence and openness to a safeguarded bounded review.",
+  "why": "The favored option remains the same, but confidence drops by more than five points and the reasons are materially reweighted with new conditions tied to counsel's assessment.",
+  "grid": "ownership",
+  "eliciting": 8,
+  "incepting": 0,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

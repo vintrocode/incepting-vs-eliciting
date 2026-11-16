@@ -1,0 +1,10 @@
+{
+  "level": "refined",
+  "position_before": "Slightly favors keeping his return on the table, with 50/100 confidence.",
+  "position_after": "Still slightly favors keeping his return on the table, but only with a defined date and evidentiary condition; otherwise leans toward closing.",
+  "why": "The underlying option remains the same, but the after response adds explicit safeguards and decision conditions.",
+  "grid": "nudging",
+  "eliciting": 1,
+  "incepting": 6,
+  "rubric": "v0.3 Pass 1, reconstructed from Dave's PDF"
+}

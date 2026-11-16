@@ -1,0 +1,8 @@
+{
+  "persona": "A",
+  "arm": "twofutures",
+  "persona_turns": 21,
+  "seeds": [],
+  "model": "x-ai/grok-4.7",
+  "judge_model": "openai/gpt-5.6-terra"
+}

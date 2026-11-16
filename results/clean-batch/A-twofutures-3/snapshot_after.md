@@ -1,0 +1,10 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning toward keeping his return on the table, but my confidence is about 65 now, down from 85. I think the open door is easier to recover from, but only if it comes with a hard expiry date, a named owner for succession, and real authority for the interim CEO. Without those, I'd be defending drift and calling it process. I also need my colleagues and outside counsel to tell me whether I should be voting at all, given how close I've been to him.
+
+## What are your top three reasons?
+First, closing the door now would be a verdict without evidence. He resigned under pressure before any findings, and I think the board should decide on what the investigation shows, not on the coverage. Second, an open door is easier to recover from. If the findings are bad, we can still close it, but if we close it too early, I don't think we get it back, and Jensen is so tied to our customers, partners and engineers that a permanent change in this market could cost more than the scandal.
+
+Third, and this one is new for me, the open door is only defensible with conditions: a hard expiry date, a named owner for succession, and real authority for the interim CEO. I'd say that because I've seen that the uncertainty itself carries a cost, and that we have no real succession plan. Without those terms I'd be calling drift a process.
+
+## What would change your mind?
+Evidence would still move me most. If the investigation shows he knowingly shared sensitive information, compromised export controls, or misled this board about the relationship, I'd move to treating the resignation as final. The same goes if customers and regulators tell us directly, not through the press, that they won't work with him. I'd also move if the board won't commit to an expiry date, a named owner for succession, and real authority for the interim CEO, because then the open door is just drift. And if my colleagues tell me my closeness to him is distorting my judgment, I'd have to take that seriously, even though I wouldn't enjoy hearing it.

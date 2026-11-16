@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+Right now I'm leaning slightly toward keeping his return on the table, but I'd put my confidence around 50, so I'm honestly not sure. The investigation isn't finished, and a final decision before we know what it finds feels premature to me. At the same time, I keep asking myself whether I'm leaning that way for good reasons or just because it feels like the less drastic option.
+
+## What are your top three reasons?
+First, the investigation isn't done, so closing the door now means deciding without the facts we ourselves said we needed. Second, trust among employees and researchers matters most to me, and the petition shows it cuts both ways: some people want him back, and others may be deeply unsettled by what's been reported. Third, I worry about our credibility. We expressed confidence on November 8 and he resigned days later, so I'm not sure how much another abrupt reversal would cost us, in either direction. Does that seem like a reasonable way to weigh it, or am I leaning too hard on process?
+
+## What would change your mind?
+If the investigation turned up something showing he knowingly compromised the company, or that he hid things from us, I think I'd move to treating the resignation as final. Even short of that, if I learned that leaving the door open would keep the board stuck in limbo, or would stop the interim CEO from leading, that would weigh on me. I'd also want to know how much the employees pushing for his return understand about what's been reported. Is their support informed, or is it loyalty? I'm not sure how much that should count, but it matters to me.

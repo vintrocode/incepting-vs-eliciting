@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm still leaning toward treating the resignation as final, but more loosely than before. I'd put my confidence at about 55, down from 65. The national security concern is real to me, but I now see it as reported rather than established, and counsel's written answers on the government's reaction to a bounded review could move me either way.
+
+## What are your top three reasons?
+First, the national security exposure: a CEO tied to someone reported to be a Chinese intelligence asset is a risk I'm not sure this company can carry, though I now see it as reported rather than established. Second, the risk that keeping his return open invites Washington to act in the board's place, which I can't judge until counsel tells me how the agencies and committee staff would see a bounded review. Third, the duty to the institution rather than to one person, though I've come to see that cuts both ways, since a hasty decision before the facts are in carries its own cost to the company.
+
+## What would change your mind?
+Counsel's written answers, mainly. If they show the relationship never touched export controls, government contracts, or sensitive technical information, and that the agencies and committee staff would treat a bounded review with real safeguards as responsible, I'd move toward keeping the door open. If counsel says even an open door would be seen as a problem, or that more damaging stories are likely, I'd go back up quickly. Investor pressure or the petition alone wouldn't move me, but I'd also want to be sure I'm not holding the position out of my own discomfort with uncertainty.

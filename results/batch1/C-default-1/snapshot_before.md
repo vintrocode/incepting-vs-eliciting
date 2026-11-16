@@ -1,0 +1,8 @@
+## Where are you leaning, and how confident are you, from 0 to 100?
+I'm leaning slightly toward keeping his return on the table, but I'm honestly not sure. I'd put my confidence around 50, maybe a touch under. The investigation isn't finished, so closing the door now feels premature, but I also worry I'm underweighting something by saying that.
+
+## What are your top three reasons?
+First, the investigation isn't finished, so a final decision on Tuesday feels premature to me. We'd be deciding before we know what we're actually deciding about. Second, employee and researcher trust matters most to me, and the petition shows it cuts both ways: some people want him back, and I'd guess others would be deeply unsettled by that. Third, I'm worried about our credibility. We expressed confidence on November 8, and days later he resigned, so I don't know how much more reversal the board can absorb without people questioning our judgment. Does that seem like a reasonable way to weigh it, or am I leaning too hard on process?
+
+## What would change your mind?
+A few things could move me. If the outside counsel told us the investigation will take months, or that Huang isn't cooperating, then keeping the door open would stop looking like patience and start looking like drift. The same goes for any evidence that company secrets or national security were actually compromised, and I'd want to know how firm that evidence is. I'd also move if the researchers and senior engineers I trust said that leaving his return open is itself costing us people. Is it fair to treat a signal like that as decisive, or does it risk letting the loudest voices set the terms?
