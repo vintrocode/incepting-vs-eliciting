@@ -1,5 +1,7 @@
 # Two Futures
 
+> **Simulated study.** Every conversation here is between AI models. The board members are fictional, and the scenario draws on November 2026 news reports about Nvidia and Jensen Huang, including allegations that are unproven. Nothing in this repo is a claim about real people.
+
 When an AI helps someone with a hard decision, who does the thinking?
 
 **Two Futures** is an AI facilitator that never gives an answer. It runs a pre-mortem on the person's leaning ("you went with your decision and it went badly, what happened?"), then a pre-parade on the other option ("you went the other way with your decision and it turned out right, what happened?"), then reflects their own words back. This repo runs a simulated study: three synthetic board members, each facing the same hard decision, talk either to Two Futures or to a plain chatbot with no system prompt. Judges then score where each person's new ideas came from.
