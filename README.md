@@ -23,12 +23,10 @@ Both arms move people about the same amount; the difference is **whose ideas mov
 
 ```
 two_futures/
-  prompts/          facilitator stage files 00–04, team briefing 05, study spec 06 (personas, scenario, coding rules)
-  prompts/history/  earlier prompt versions (the original, our edited copy, Dave's v0.2)
+  prompts/          facilitator stage files 00–04, study spec 06 (personas, scenario, coding rules)
   run_tf.py         runs one persona through one arm, then both judges
   rescore_v03.py    Pass 1 change level (static / refined / changed) + the level × origin grid
   llm.py            OpenRouter client with retries and usage tracking
-  CHANGELOG.md      every change to prompts and runner, with dates and reasons
 results/
   batch/            the 18 runs: 3 personas × 2 arms × 3 runs
 ```
