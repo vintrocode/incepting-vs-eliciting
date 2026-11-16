@@ -2,5 +2,6 @@
 name = "two-futures"
 version = "0.1.0"
 description = "Two Futures: does a facilitated decision exercise draw ideas out of people, where a default chatbot plants its own?"
+license = "MIT"
 requires-python = ">=3.12"
 dependencies = ["openai>=1.40"]

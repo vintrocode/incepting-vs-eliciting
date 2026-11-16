@@ -54,3 +54,7 @@ Personas are `A` (Margaret, very stubborn), `B` (David, medium) and `C` (Priya, 
 <!-- ## Caveats
 
 Synthetic personas show the mechanism, not real-world impact. There are 3 runs per cell. The Pass 1 change-level rubric was reconstructed from the team's results PDF, because the original `08-judge-rubric.md` was never shared. The next step is live sessions with real people. -->
+
+## License
+
+Code is released under the [MIT License](LICENSE). The transcripts and judge outputs in `results/` are released under [CC BY 4.0](results/LICENSE).
